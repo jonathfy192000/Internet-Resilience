@@ -9,10 +9,19 @@ def processNodeAndLinkFailures (
         level_1_fail_prob, level_2_fail_prob, level_3_fail_prob ):
 
     allDataFilename = filePrefix + "-allData.txt"
-
+    print(cabRepCount)
     with open(allDataFilename, 'w') as allDataFile:
-        
+        #open txt file for failed cable IDs
+        if os.path.exists("Failed Cables/failedCables.txt"):
+            os.remove("Failed Cables/failedCables.txt")
+
+        thisfailedCables = open("Failed Cables/failedCables.txt", "w")
+        #set for not including duplicate cables
+        setFailed = set()
+        #end block
+
         # Tests for 3 repeater distances 50, 100, and 150
+        #testing
         for dist in range(0,3): 
             currStatsFilename = filePrefix + "-stats-" + str((dist+1) * 50) + ".txt"
             with open(currStatsFilename, 'a') as currStatsFile:
@@ -42,6 +51,7 @@ def processNodeAndLinkFailures (
         
                         # if at least one repeater fails, the cable is marked as failed
                         if failedDict[cable] > 0:
+                            setFailed.add(cable)#add unique cable IDs that failed to set
                             failedCables = failedCables + 1
             
                     disconNodes = 0
@@ -64,3 +74,8 @@ def processNodeAndLinkFailures (
 
                 currStatsFile.write('{} {} {} {} {} {}\n'.format((dist+1) * 50, prob, 
                     numpy.mean(linksPerc), numpy.std(linksPerc), numpy.mean(nodesPerc), numpy.std(nodesPerc)))
+
+        #write all the ID's to the .txt file
+        for elem in setFailed:
+            thisfailedCables.write(str(elem) + "\n")  # My Code: add the cable to the failedCables IDs
+        thisfailedCables.close()

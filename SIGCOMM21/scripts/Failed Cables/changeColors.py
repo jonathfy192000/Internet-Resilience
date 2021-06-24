@@ -1,4 +1,10 @@
-{
+import os
+import json
+
+#this file uses cable-geo.json and the created txt files from getNames to find the failed cable id's and change their colors to red
+#all other cables that don't fail are green
+#if any changes happen to cables, just paste the new cable-geo dictionary here in dict_features
+dict_features = {
   "type": "FeatureCollection",
   "features": [
     {
@@ -1777,7 +1783,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "d98328",
         "slug": "alaska-united-east-au-east"
       }
     },
@@ -2407,7 +2413,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "b65a28",
         "slug": "alpal-2"
       }
     },
@@ -2845,7 +2851,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "b6b8ba",
         "slug": "america-movil-telxius-west-coast-cable"
       }
     },
@@ -3155,7 +3161,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "3a8fb2",
         "slug": "americas-ii"
       }
     },
@@ -3253,7 +3259,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "3f61ad",
         "slug": "antillas-1"
       }
     },
@@ -3709,7 +3715,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "2ab24b",
         "slug": "apcn-2"
       }
     },
@@ -3859,7 +3865,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "d47028",
         "slug": "apollo"
       }
     },
@@ -4455,7 +4461,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "52499e",
         "slug": "arcos"
       }
     },
@@ -6177,7 +6183,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "51439b",
         "slug": "atlantic-crossing-1-ac-1"
       }
     },
@@ -6367,7 +6373,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "704fa1",
         "slug": "atlantis-2"
       }
     },
@@ -6789,7 +6795,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "47c0b3",
         "slug": "australia-japan-cable-ajc"
       }
     },
@@ -7059,7 +7065,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "b6b8ba",
         "slug": "azerbaijan-turkmenistan"
       }
     },
@@ -7207,7 +7213,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "86469b",
         "slug": "bahamas-2"
       }
     },
@@ -7667,7 +7673,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "21a0b9",
         "slug": "bahamas-internet-cable-system-bics"
       }
     },
@@ -7873,7 +7879,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "60469c",
         "slug": "baltica"
       }
     },
@@ -8539,7 +8545,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "358ccc",
         "slug": "bcs-east-west-interlink"
       }
     },
@@ -8837,7 +8843,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "cb3794",
         "slug": "bkk-digitek"
       }
     },
@@ -8883,7 +8889,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "b6b8ba",
         "slug": "bluemed"
       }
     },
@@ -10863,7 +10869,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "86499d",
         "slug": "cayman-jamaica-fiber-system"
       }
     },
@@ -10971,7 +10977,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "34459c",
         "slug": "celtic"
       }
     },
@@ -11407,7 +11413,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "3db64f",
         "slug": "circe-north"
       }
     },
@@ -11777,7 +11783,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "c45538",
         "slug": "columbus-iii"
       }
     },
@@ -12151,7 +12157,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "b6b8ba",
         "slug": "converge-ict-domestic-submarine-cable"
       }
     },
@@ -12439,7 +12445,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "b6b8ba",
         "slug": "crosschannel-fibre"
       }
     },
@@ -15481,7 +15487,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "e07b27",
         "slug": "esat-1"
       }
     },
@@ -15511,7 +15517,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "28bcae",
         "slug": "esat-2"
       }
     },
@@ -16549,7 +16555,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "63be62",
         "slug": "farice-1"
       }
     },
@@ -16821,7 +16827,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "295aa9",
         "slug": "fiber-optic-gulf-fog"
       }
     },
@@ -17131,7 +17137,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "58a445",
         "slug": "finland-estonia-connection-fec"
       }
     },
@@ -17263,7 +17269,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "81489c",
         "slug": "flag-atlantic-1-fa-1"
       }
     },
@@ -17929,7 +17935,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "c6225a",
         "slug": "flag-europe-asia-fea"
       }
     },
@@ -18151,7 +18157,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "c7b22f",
         "slug": "flag-north-asia-loopreach-north-asia-loop"
       }
     },
@@ -18435,7 +18441,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "ef7223",
         "slug": "georgia-russia"
       }
     },
@@ -18865,7 +18871,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "b6b8ba",
         "slug": "globenet"
       }
     },
@@ -19149,7 +19155,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "7c499d",
         "slug": "globenet"
       }
     },
@@ -19859,7 +19865,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "4dba6b",
         "slug": "gtt-atlantic"
       }
     },
@@ -20573,7 +20579,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "b6b8ba",
         "slug": "h2-cable"
       }
     },
@@ -20623,7 +20629,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "b6b8ba",
         "slug": "hainan-hong-kong-submarine-cable-system"
       }
     },
@@ -20999,7 +21005,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "b6b8ba",
         "slug": "havtor"
       }
     },
@@ -21943,7 +21949,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "d96627",
         "slug": "i2i-cable-network-i2icn"
       }
     },
@@ -24097,7 +24103,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "6fbf45",
         "slug": "japan-information-highway-jih"
       }
     },
@@ -24297,7 +24303,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "af4c9d",
         "slug": "japan-u-s-cable-network-jus"
       }
     },
@@ -24719,7 +24725,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "31a8e0",
         "slug": "java-kalimantan-sulawesi-jakasusi"
       }
     },
@@ -25075,7 +25081,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "bd3662",
         "slug": "kattegat-1"
       }
     },
@@ -25199,7 +25205,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "b6b8ba",
         "slug": "ketchcan1-submarine-fiber-cable-system"
       }
     },
@@ -25355,7 +25361,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "b42e26",
         "slug": "korea-japan-cable-network-kjcn"
       }
     },
@@ -26091,7 +26097,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "c2982e",
         "slug": "lev-submarine-system"
       }
     },
@@ -26261,7 +26267,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "37b08b",
         "slug": "lfon-libyan-fiber-optic-network"
       }
     },
@@ -27873,7 +27879,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "94459a",
         "slug": "maya-1"
       }
     },
@@ -28295,7 +28301,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "54b948",
         "slug": "mednautilus-submarine-system"
       }
     },
@@ -28545,7 +28551,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "5cbb47",
         "slug": "mid-atlantic-crossing-mac"
       }
     },
@@ -28943,7 +28949,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "b6b8ba",
         "slug": "mist"
       }
     },
@@ -29341,7 +29347,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "b6b8ba",
         "slug": "n0r5ke-viking"
       }
     },
@@ -30693,7 +30699,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "e02f92",
         "slug": "northstar"
       }
     },
@@ -30923,7 +30929,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "b6b8ba",
         "slug": "oman-australia-cable-oac"
       }
     },
@@ -31533,7 +31539,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "05a6d8",
         "slug": "pacific-crossing-1-pc-1"
       }
     },
@@ -32593,7 +32599,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "37aab8",
         "slug": "pan-american-crossing-pac"
       }
     },
@@ -32803,7 +32809,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "3c4ba0",
         "slug": "pan-american-pan-am"
       }
     },
@@ -33357,7 +33363,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "a92a91",
         "slug": "penbal-5"
       }
     },
@@ -35147,7 +35153,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "aa4a9c",
         "slug": "safe"
       }
     },
@@ -35583,7 +35589,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "05a7c8",
         "slug": "sat-3wasc"
       }
     },
@@ -37479,7 +37485,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "70bd45",
         "slug": "seamewe-3"
       }
     },
@@ -38009,7 +38015,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "197cb7",
         "slug": "seamewe-4"
       }
     },
@@ -38675,7 +38681,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "b6b8ba",
         "slug": "senegal-horn-of-africa-regional-express-share-cable"
       }
     },
@@ -39041,7 +39047,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "904b9d",
         "slug": "sirius-south"
       }
     },
@@ -39871,7 +39877,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "b03244",
         "slug": "solas"
       }
     },
@@ -40317,7 +40323,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "36ae4a",
         "slug": "south-america-1-sam-1"
       }
     },
@@ -40601,7 +40607,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "2870ad",
         "slug": "south-american-crossing-sac"
       }
     },
@@ -41893,7 +41899,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "3086a7",
         "slug": "southern-cross-cable-network-sccn"
       }
     },
@@ -42649,7 +42655,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "e33926",
         "slug": "sweden-estonia-ee-s-1"
       }
     },
@@ -42691,7 +42697,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "5bbd75",
         "slug": "sweden-finland-4-sfs-4"
       }
     },
@@ -42721,7 +42727,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "a23149",
         "slug": "sweden-finland-link-sfl"
       }
     },
@@ -43099,7 +43105,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "98499c",
         "slug": "tampnet-offshore-foc-network"
       }
     },
@@ -43167,7 +43173,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "b6b8ba",
         "slug": "tanjun-pandan-sungai-kakap-cable-system"
       }
     },
@@ -43557,7 +43563,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "52c4c3",
         "slug": "tat-14"
       }
     },
@@ -43677,7 +43683,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "b96e36",
         "slug": "tata-tgn-atlantic"
       }
     },
@@ -44209,7 +44215,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "b96738",
         "slug": "tata-tgn-pacific"
       }
     },
@@ -44379,7 +44385,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "623f99",
         "slug": "tata-tgn-western-europe"
       }
     },
@@ -44669,7 +44675,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "3a7dc0",
         "slug": "tenerife-la-gomera-la-palma"
       }
     },
@@ -44995,7 +45001,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "7ac143",
         "slug": "thailand-indonesia-singapore-tis"
       }
     },
@@ -45137,7 +45143,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "b6b8ba",
         "slug": "tokelau-submarine-cable"
       }
     },
@@ -45285,7 +45291,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "b6b8ba",
         "slug": "trans-caspian-fiber-optic-tcfo"
       }
     },
@@ -45577,7 +45583,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "80af41",
         "slug": "transcan-2"
       }
     },
@@ -46229,7 +46235,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "b05c3a",
         "slug": "unisur"
       }
     },
@@ -46459,7 +46465,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "3dad49",
         "slug": "venezuela-festoon"
       }
     },
@@ -46911,7 +46917,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "b6b8ba",
         "slug": "x-link-submarine-cable"
       }
     },
@@ -46945,7 +46951,7 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "bc3827",
         "slug": "x-link-submarine-cable"
       }
     },
@@ -47007,9 +47013,36 @@
         ]
       },
       "properties": {
-        "color": "ff0000",
+        "color": "ba9734",
         "slug": "yellow"
       }
     }
   ]
 }
+
+failedNames = open("failedNames.txt", "r")
+allNames = open("allNames.txt", "r")
+if os.path.exists("final_dict.txt"):
+    os.remove("final_dict.txt")
+final_dict = open("final_dict.txt", "w")
+list_names = []
+dict_failed = dict()
+
+for name in allNames.readlines():
+    dict_failed[name[0:-1]] = 0
+
+for name in failedNames.readlines():
+    dict_failed[name[0:-1]] = 1
+
+for dictionary in dict_features["features"]:
+    copy_dict = dictionary
+    if dict_failed[dictionary["properties"]["slug"]] == 1:
+        copy_dict["properties"]["slug"] = "ff0000"
+    else:
+        copy_dict["properties"]["slug"] = "19b028"
+    final_dict.write(json.dumps(copy_dict))
+
+
+failedNames.close()
+allNames.close()
+final_dict.close()
