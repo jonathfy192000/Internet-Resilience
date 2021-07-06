@@ -1,0 +1,3539 @@
+[
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 39,
+    "dst_addr": "193.0.14.129",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "91.198.174.132",
+    "proto": "UDP",
+    "result": {
+        "rt": 0.786,
+        "size": 65,
+        "abuf": "54KAAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAAFhVuczMubmwtYW1zLmsucmlwZS5uZXQ=",
+        "ID": 59266,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "ns3.nl-ams.k.ripe.net"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10301,
+    "prb_id": 6671,
+    "timestamp": 1624494482,
+    "msm_name": "Tdig",
+    "from": "91.198.174.132",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 20,
+    "dst_addr": "202.12.27.33",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "91.198.174.132",
+    "proto": "UDP",
+    "result": {
+        "rt": 15.659,
+        "size": 65,
+        "abuf": "kXCEAAABAAEAAQAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAACAdNLU9SWS0zwAwAAgADAAAAAAACwAw=",
+        "ID": 37232,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 1,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "M-ORY-3"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10306,
+    "prb_id": 6671,
+    "timestamp": 1624494505,
+    "msm_name": "Tdig",
+    "from": "91.198.174.132",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 139,
+    "dst_addr": "192.33.4.12",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "192.168.0.129",
+    "proto": "UDP",
+    "result": {
+        "rt": 1.117,
+        "size": 92,
+        "abuf": "egeAgAABAAEAAAAAAAAGAAEAAAYAAQAAABUAQAFhDHJvb3Qtc2VydmVycwNuZXQABW5zdGxkDHZlcmlzaWduLWdycwNjb20AeHb2nQAABwgAAAOEAAk6gAABUYA=",
+        "ID": 31239,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "SOA",
+                "NAME": ".",
+                "TTL": 21,
+                "MNAME": "a.root-servers.net.",
+                "RNAME": "nstld.verisign-grs.com.",
+                "SERIAL": 2021062301
+            }
+        ]
+    },
+    "msm_id": 10011,
+    "prb_id": 34313,
+    "timestamp": 1624494483,
+    "msm_name": "Tdig",
+    "from": "71.146.225.254",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 82,
+    "dst_addr": "199.9.14.201",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "192.168.11.10",
+    "proto": "UDP",
+    "result": {
+        "rt": 20.07,
+        "size": 50,
+        "abuf": "6LaAAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAABwZiNC1hbXM=",
+        "ID": 59574,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "b4-ams"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10310,
+    "prb_id": 14062,
+    "timestamp": 1624494425,
+    "msm_name": "Tdig",
+    "from": "90.155.79.120",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 94,
+    "dst_addr": "193.0.14.129",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "192.168.11.10",
+    "proto": "UDP",
+    "result": {
+        "rt": 14.221,
+        "size": 128,
+        "abuf": "JE2EAAABAAEAAAABAAAGAAEAAAYAAQABUYAAQAFhDHJvb3Qtc2VydmVycwNuZXQABW5zdGxkDHZlcmlzaWduLWdycwNjb20AeHb2nQAABwgAAAOEAAk6gAABUYAAACkE0AAAAAAAGQADABVuczMuZ2ItbG9uLmsucmlwZS5uZXQ=",
+        "ID": 9293,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 1,
+        "answers": [
+            {
+                "TYPE": "SOA",
+                "NAME": ".",
+                "TTL": 86400,
+                "MNAME": "a.root-servers.net.",
+                "RNAME": "nstld.verisign-grs.com.",
+                "SERIAL": 2021062301
+            }
+        ]
+    },
+    "msm_id": 8319597,
+    "prb_id": 14062,
+    "timestamp": 1624494437,
+    "msm_name": "Tdig",
+    "from": "90.155.79.120",
+    "type": "dns",
+    "group_id": 8319597
+},
+{
+    "fw": 4790,
+    "lts": 2,
+    "dst_addr": "192.36.148.17",
+    "af": 4,
+    "src_addr": "192.168.100.2",
+    "proto": "TCP",
+    "result": {
+        "rt": 20.167,
+        "size": 297,
+        "abuf": "ROOEAAABAAEADQAAAAAGAAEAAAYAAQABUYAAQAFhDHJvb3Qtc2VydmVycwNuZXQABW5zdGxkDHZlcmlzaWduLWdycwNjb20AeHb2nQAABwgAAAOEAAk6gAABUYAAAAIAAQAH6QAABAFjwB7AXAACAAEAB+kAAAQBZcAewFwAAgABAAfpAAAEAWbAHsBcAAIAAQAH6QAABAFrwB7AXAACAAEAB+kAAAQBaMAewFwAAgABAAfpAAAEAWnAHsBcAAIAAQAH6QAABAFnwB7AXAACAAEAB+kAAAQBZMAewFwAAgABAAfpAAAEAWLAHsBcAAIAAQAH6QAABAFtwB7AXAACAAEAB+kAAALAHMBcAAIAAQAH6QAABAFqwB7AXAACAAEAB+kAAAQBbMAe",
+        "ID": 17635,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 13,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "SOA",
+                "NAME": ".",
+                "TTL": 86400,
+                "MNAME": "a.root-servers.net.",
+                "RNAME": "nstld.verisign-grs.com.",
+                "SERIAL": 2021062301
+            }
+        ]
+    },
+    "msm_id": 10105,
+    "prb_id": 1212,
+    "timestamp": 1624494498,
+    "msm_name": "Tdig",
+    "from": "85.195.228.93",
+    "type": "dns"
+},
+{
+    "fw": 4790,
+    "lts": 8,
+    "dst_addr": "192.5.5.241",
+    "af": 4,
+    "src_addr": "192.168.100.2",
+    "proto": "TCP",
+    "result": {
+        "rt": 9.248,
+        "size": 857,
+        "abuf": "oNiEAAABAAEADQAaAAAGAAEAAAYAAQABUYAAQAFhDHJvb3Qtc2VydmVycwNuZXQABW5zdGxkDHZlcmlzaWduLWdycwNjb20AeHb2nQAABwgAAAOEAAk6gAABUYAAAAIAAQAH6QAABAFtwB4AAAIAAQAH6QAABAFiwB4AAAIAAQAH6QAABAFjwB4AAAIAAQAH6QAABAFkwB4AAAIAAQAH6QAABAFlwB4AAAIAAQAH6QAABAFmwB4AAAIAAQAH6QAABAFnwB4AAAIAAQAH6QAABAFowB4AAAIAAQAH6QAABAFpwB4AAAIAAQAH6QAAAsAcAAACAAEAB+kAAAQBasAeAAACAAEAB+kAAAQBa8AeAAACAAEAB+kAAAQBbMAewGcAAQABAAfpAAAEygwbIcBnABwAAQAH6QAAECABDcMAAAAAAAAAAAAAADXAdgABAAEAB+kAAATHCQ7JwHYAHAABAAfpAAAQIAEFAAIAAAAAAAAAAAAAC8CFAAEAAQAH6QAABMAhBAzAhQAcAAEAB+kAABAgAQUAAAIAAAAAAAAAAAAMwJQAAQABAAfpAAAExwdbDcCUABwAAQAH6QAAECABBQAALQAAAAAAAAAAAA3AowABAAEAB+kAAATAy+YKwKMAHAABAAfpAAAQIAEFAACoAAAAAAAAAAAADsCyAAEAAQAH6QAABMAFBfHAsgAcAAEAB+kAABAgAQUAAC8AAAAAAAAAAAAPwMEAAQABAAfpAAAEwHAkBMDBABwAAQAH6QAAECABBQAAEgAAAAAAAAAADQ3A0AABAAEAB+kAAATGYb41wNAAHAABAAfpAAAQIAEFAAABAAAAAAAAAAAAU8DfAAEAAQAH6QAABMAklBHA3wAcAAEAB+kAABAgAQf+AAAAAAAAAAAAAABTwBwAAQABAAfpAAAExikABMAcABwAAQAH6QAAECABBQO6PgAAAAAAAAACADDA+wABAAEAB+kAAATAOoAewPsAHAABAAfpAAAQIAEFAwwnAAAAAAAAAAIAMMEKAAEAAQAH6QAABMEADoHBCgAcAAEAB+kAABAgAQf9AAAAAAAAAAAAAAABwRkAAQABAAfpAAAExwdTKsEZABwAAQAH6QAAECABBQAAnwAAAAAAAAAAAEI=",
+        "ID": 41176,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 13,
+        "ARCOUNT": 26,
+        "answers": [
+            {
+                "TYPE": "SOA",
+                "NAME": ".",
+                "TTL": 86400,
+                "MNAME": "a.root-servers.net.",
+                "RNAME": "nstld.verisign-grs.com.",
+                "SERIAL": 2021062301
+            }
+        ]
+    },
+    "msm_id": 10104,
+    "prb_id": 1212,
+    "timestamp": 1624494504,
+    "msm_name": "Tdig",
+    "from": "85.195.228.93",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 61,
+    "dst_addr": "198.97.190.53",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "192.168.0.27",
+    "proto": "UDP",
+    "result": {
+        "rt": 12.298,
+        "size": 70,
+        "abuf": "joyAAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAAGxowMDEuZnJhLmgucm9vdC1zZXJ2ZXJzLm9yZw==",
+        "ID": 36492,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "001.fra.h.root-servers.org"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10315,
+    "prb_id": 19032,
+    "timestamp": 1624494444,
+    "msm_name": "Tdig",
+    "from": "82.64.222.54",
+    "type": "dns"
+},
+{
+    "fw": 4790,
+    "lts": 79,
+    "dst_addr": "199.7.91.13",
+    "af": 4,
+    "src_addr": "192.168.1.104",
+    "proto": "UDP",
+    "error": {
+        "timeout": 5000
+    },
+    "msm_id": 10312,
+    "prb_id": 3751,
+    "timestamp": 1624494374,
+    "msm_name": "Tdig",
+    "from": "78.84.63.95",
+    "type": "dns"
+},
+{
+    "fw": 4790,
+    "lts": 69,
+    "dst_addr": "198.41.0.4",
+    "af": 4,
+    "src_addr": "192.168.1.104",
+    "proto": "UDP",
+    "result": {
+        "rt": 36.851,
+        "size": 53,
+        "abuf": "BzKEAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAACglubm4xLWZyYTU=",
+        "ID": 1842,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "nnn1-fra5"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10309,
+    "prb_id": 3751,
+    "timestamp": 1624494454,
+    "msm_name": "Tdig",
+    "from": "78.84.63.95",
+    "type": "dns"
+},
+{
+    "fw": 4790,
+    "lts": 160,
+    "dst_addr": "202.12.27.33",
+    "af": 4,
+    "src_addr": "192.168.172.205",
+    "proto": "UDP",
+    "result": {
+        "rt": 27.049,
+        "size": 65,
+        "abuf": "+ymEAAABAAEAAQAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAACAdNLU9SWS00wAwAAgADAAAAAAACwAw=",
+        "ID": 64297,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 1,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "M-ORY-4"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10306,
+    "prb_id": 2646,
+    "timestamp": 1624494440,
+    "msm_name": "Tdig",
+    "from": "212.237.97.154",
+    "type": "dns"
+},
+{
+    "fw": 4790,
+    "lts": 165,
+    "dst_addr": "2001:500:2d::d",
+    "af": 6,
+    "src_addr": "2a00:7660:109a:0:220:4aff:fee0:2326",
+    "proto": "UDP",
+    "result": {
+        "rt": 24.972,
+        "size": 70,
+        "abuf": "VrmAAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAAGxp0YWVlMS5kcm9vdC5tYXhnaWdhcG9wLm5ldA==",
+        "ID": 22201,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "taee1.droot.maxgigapop.net"
+                ]
+            }
+        ]
+    },
+    "msm_id": 11312,
+    "prb_id": 2646,
+    "timestamp": 1624494445,
+    "msm_name": "Tdig",
+    "from": "2a00:7660:109a:0:220:4aff:fee0:2326",
+    "type": "dns"
+},
+{
+    "fw": 4790,
+    "lts": 170,
+    "dst_addr": "2001:7fe::53",
+    "af": 6,
+    "src_addr": "2a00:7660:109a:0:220:4aff:fee0:2326",
+    "proto": "UDP",
+    "result": {
+        "rt": 29.705,
+        "size": 64,
+        "abuf": "B92EAAABAAEAAQAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAABwZzMS5hbXjADAACAAMAAAAAAALADA==",
+        "ID": 2013,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 1,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "s1.amx"
+                ]
+            }
+        ]
+    },
+    "msm_id": 11305,
+    "prb_id": 2646,
+    "timestamp": 1624494450,
+    "msm_name": "Tdig",
+    "from": "2a00:7660:109a:0:220:4aff:fee0:2326",
+    "type": "dns"
+},
+{
+    "fw": 5010,
+    "mver": "2.2.0",
+    "lts": 31,
+    "dst_name": "2001:500:1::53",
+    "proto": "UDP",
+    "error": {
+        "socket": "connect failed Network is unreachable"
+    },
+    "msm_id": 11315,
+    "prb_id": 1000327,
+    "timestamp": 1624494397,
+    "msm_name": "Tdig",
+    "from": "fd30:a2c2:18ed:bd00:49f1:5544:1f43:cf66",
+    "type": "dns"
+},
+{
+    "fw": 5010,
+    "mver": "2.2.0",
+    "lts": 16,
+    "dst_addr": "193.0.14.129",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "192.168.1.29",
+    "proto": "UDP",
+    "result": {
+        "rt": 215.603,
+        "size": 65,
+        "abuf": "W3aAAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAAFhVuczMuZ2ItbG9uLmsucmlwZS5uZXQ=",
+        "ID": 23414,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "ns3.gb-lon.k.ripe.net"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10301,
+    "prb_id": 1000327,
+    "timestamp": 1624494438,
+    "msm_name": "Tdig",
+    "from": "160.242.14.157",
+    "type": "dns"
+},
+{
+    "fw": 5010,
+    "mver": "2.2.0",
+    "lts": 27,
+    "dst_addr": "192.36.148.17",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "192.168.1.29",
+    "proto": "UDP",
+    "result": {
+        "rt": 61.185,
+        "size": 64,
+        "abuf": "uGOEAAABAAEAAQAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAABwZzMS5qYnTADAACAAMAAAAAAALADA==",
+        "ID": 47203,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 1,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "s1.jbt"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10305,
+    "prb_id": 1000327,
+    "timestamp": 1624494449,
+    "msm_name": "Tdig",
+    "from": "160.242.14.157",
+    "type": "dns"
+},
+{
+    "fw": 5010,
+    "mver": "2.2.0",
+    "lts": 31,
+    "dst_addr": "192.203.230.10",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "192.168.1.29",
+    "proto": "UDP",
+    "result": {
+        "rt": 42.694,
+        "size": 57,
+        "abuf": "kuGAAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAADg1wMDIud2RoLmVyb290",
+        "ID": 37601,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "p02.wdh.eroot"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10313,
+    "prb_id": 1000327,
+    "timestamp": 1624494453,
+    "msm_name": "Tdig",
+    "from": "160.242.14.157",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 51,
+    "dst_addr": "192.36.148.17",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "172.16.34.116",
+    "proto": "UDP",
+    "result": {
+        "rt": 13.856,
+        "size": 297,
+        "abuf": "2heEAAABAAEADQAAAAAGAAEAAAYAAQABUYAAQAFhDHJvb3Qtc2VydmVycwNuZXQABW5zdGxkDHZlcmlzaWduLWdycwNjb20AeHb2nQAABwgAAAOEAAk6gAABUYAAAAIAAQAH6QAABAFiwB7AXAACAAEAB+kAAAQBZ8AewFwAAgABAAfpAAAEAWvAHsBcAAIAAQAH6QAABAFlwB7AXAACAAEAB+kAAALAHMBcAAIAAQAH6QAABAFkwB7AXAACAAEAB+kAAAQBbcAewFwAAgABAAfpAAAEAWbAHsBcAAIAAQAH6QAABAFqwB7AXAACAAEAB+kAAAQBY8AewFwAAgABAAfpAAAEAWjAHsBcAAIAAQAH6QAABAFpwB7AXAACAAEAB+kAAAQBbMAe",
+        "ID": 55831,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 13,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "SOA",
+                "NAME": ".",
+                "TTL": 86400,
+                "MNAME": "a.root-servers.net.",
+                "RNAME": "nstld.verisign-grs.com.",
+                "SERIAL": 2021062301
+            }
+        ]
+    },
+    "msm_id": 10005,
+    "prb_id": 21277,
+    "timestamp": 1624494427,
+    "msm_name": "Tdig",
+    "from": "178.251.69.9",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 74,
+    "dst_addr": "2001:dc3::35",
+    "dst_port": "53",
+    "af": 6,
+    "src_addr": "2a02:1748:fad4:5090:ea94:f6ff:fe48:ccb4",
+    "proto": "UDP",
+    "result": {
+        "rt": 24.4,
+        "size": 65,
+        "abuf": "5PiEAAABAAEAAQAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAACAdNLU9SWS0xwAwAAgADAAAAAAACwAw=",
+        "ID": 58616,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 1,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "M-ORY-1"
+                ]
+            }
+        ]
+    },
+    "msm_id": 11306,
+    "prb_id": 21277,
+    "timestamp": 1624494522,
+    "msm_name": "Tdig",
+    "from": "2a02:1748:fad4:5090:ea94:f6ff:fe48:ccb4",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 85,
+    "dst_addr": "198.41.0.4",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "172.16.34.116",
+    "proto": "UDP",
+    "result": {
+        "rt": 17.207,
+        "size": 53,
+        "abuf": "LWyEAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAACglubm4xLWZyYTU=",
+        "ID": 11628,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "nnn1-fra5"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10309,
+    "prb_id": 21277,
+    "timestamp": 1624494533,
+    "msm_name": "Tdig",
+    "from": "178.251.69.9",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 77,
+    "dst_addr": "192.36.148.17",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "192.168.4.212",
+    "proto": "UDP",
+    "result": {
+        "rt": 25.292,
+        "size": 64,
+        "abuf": "kDuEAAABAAEAAQAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAABwZzMS5kZXjADAACAAMAAAAAAALADA==",
+        "ID": 36923,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 1,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "s1.dex"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10305,
+    "prb_id": 50608,
+    "timestamp": 1624494528,
+    "msm_name": "Tdig",
+    "from": "31.170.9.129",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 54,
+    "dst_addr": "192.33.4.12",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "192.168.15.129",
+    "proto": "UDP",
+    "result": {
+        "rt": 14.632,
+        "size": 82,
+        "abuf": "X5aEAAABAAEAAQAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAAGRhzaW4xYS5jLnJvb3Qtc2VydmVycy5vcmfADAACAAMAAAAAAALADA==",
+        "ID": 24470,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 1,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "sin1a.c.root-servers.org"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10311,
+    "prb_id": 21101,
+    "timestamp": 1624494434,
+    "msm_name": "Tdig",
+    "from": "202.53.253.13",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 9,
+    "dst_addr": "192.203.230.10",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "192.168.15.129",
+    "proto": "UDP",
+    "error": {
+        "timeout": 5000
+    },
+    "msm_id": 10313,
+    "prb_id": 21101,
+    "timestamp": 1624494444,
+    "msm_name": "Tdig",
+    "from": "202.53.253.13",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 22,
+    "dst_addr": "193.0.14.129",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "192.168.88.84",
+    "proto": "UDP",
+    "result": {
+        "rt": 15.621,
+        "size": 65,
+        "abuf": "5dSAAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAAFhVuczEucnUtbGVkLmsucmlwZS5uZXQ=",
+        "ID": 58836,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "ns1.ru-led.k.ripe.net"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10301,
+    "prb_id": 54580,
+    "timestamp": 1624494477,
+    "msm_name": "Tdig",
+    "from": "46.242.11.13",
+    "type": "dns"
+},
+{
+    "fw": 4790,
+    "lts": 1,
+    "resultset": [
+        {
+            "time": 1624494398,
+            "lts": 1,
+            "subid": 1,
+            "submax": 2,
+            "dst_addr": "8.8.8.8",
+            "af": 4,
+            "src_addr": "193.170.114.34",
+            "proto": "UDP",
+            "result": {
+                "rt": 69.986,
+                "size": 62,
+                "abuf": "O2mBgAABAAEAAAAABnNlY3VyZQZkNGE4bjMKcm9vdGNhbmFyeQNuZXQAAAEAAcAMAAEAAQAAADsABJFhFBE=",
+                "ID": 15209,
+                "ANCOUNT": 1,
+                "QDCOUNT": 1,
+                "NSCOUNT": 0,
+                "ARCOUNT": 0
+            }
+        },
+        {
+            "time": 1624494399,
+            "lts": 2,
+            "subid": 2,
+            "submax": 2,
+            "dst_addr": "2001:4860:4860::8888",
+            "af": 6,
+            "src_addr": "2001:628:2006:8::2",
+            "proto": "UDP",
+            "result": {
+                "rt": 39.967,
+                "size": 62,
+                "abuf": "KNuBgAABAAEAAAAABnNlY3VyZQZkNGE4bjMKcm9vdGNhbmFyeQNuZXQAAAEAAcAMAAEAAQAAADsABJFhFBE=",
+                "ID": 10459,
+                "ANCOUNT": 1,
+                "QDCOUNT": 1,
+                "NSCOUNT": 0,
+                "ARCOUNT": 0
+            }
+        }
+    ],
+    "msm_id": 8926911,
+    "prb_id": 3046,
+    "timestamp": 1624494398,
+    "msm_name": "Tdig",
+    "from": "193.170.114.34",
+    "type": "dns",
+    "group_id": 8926911
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 7,
+    "dst_addr": "193.0.14.129",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "10.1.5.126",
+    "proto": "UDP",
+    "result": {
+        "rt": 33.871,
+        "size": 128,
+        "abuf": "TLmEAAABAAEAAAABAAAGAAEAAAYAAQABUYAAQAFhDHJvb3Qtc2VydmVycwNuZXQABW5zdGxkDHZlcmlzaWduLWdycwNjb20AeHb2nQAABwgAAAOEAAk6gAABUYAAACkE0AAAAAAAGQADABVuczIudXMtbWlhLmsucmlwZS5uZXQ=",
+        "ID": 19641,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 1,
+        "answers": [
+            {
+                "TYPE": "SOA",
+                "NAME": ".",
+                "TTL": 86400,
+                "MNAME": "a.root-servers.net.",
+                "RNAME": "nstld.verisign-grs.com.",
+                "SERIAL": 2021062301
+            }
+        ]
+    },
+    "msm_id": 8319597,
+    "prb_id": 51331,
+    "timestamp": 1624494440,
+    "msm_name": "Tdig",
+    "from": "8.39.160.85",
+    "type": "dns",
+    "group_id": 8319597
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 23,
+    "resultset": [
+        {
+            "time": 1624494456,
+            "lts": 23,
+            "subid": 1,
+            "submax": 2,
+            "dst_addr": "8.8.8.8",
+            "dst_port": "53",
+            "af": 4,
+            "src_addr": "10.1.5.126",
+            "proto": "UDP",
+            "result": {
+                "rt": 5.421,
+                "size": 72,
+                "abuf": "P5WBgAABAAEAAAAAEGZkYjdhNzBlNDlkZTAyYWEEc29ydAxyb3V0aW5nbG9naWMDbmV0AAABAAHADAABAAEAAAA7AAQDAwMD",
+                "ID": 16277,
+                "ANCOUNT": 1,
+                "QDCOUNT": 1,
+                "NSCOUNT": 0,
+                "ARCOUNT": 0
+            }
+        },
+        {
+            "time": 1624494457,
+            "lts": 24,
+            "subid": 2,
+            "submax": 2,
+            "dst_addr": "4.2.2.2",
+            "dst_port": "53",
+            "af": 4,
+            "src_addr": "10.1.5.126",
+            "proto": "UDP",
+            "result": {
+                "rt": 3.58,
+                "size": 72,
+                "abuf": "0dKBgAABAAEAAAAAEDc3NDgwMTA0ZGQxM2I3NTgEc29ydAxyb3V0aW5nbG9naWMDbmV0AAABAAHADAABAAEAAAA8AAQCAgIC",
+                "ID": 53714,
+                "ANCOUNT": 1,
+                "QDCOUNT": 1,
+                "NSCOUNT": 0,
+                "ARCOUNT": 0
+            }
+        }
+    ],
+    "msm_id": 29195921,
+    "prb_id": 51331,
+    "timestamp": 1624494456,
+    "msm_name": "Tdig",
+    "from": "8.39.160.85",
+    "type": "dns",
+    "group_id": 29195921
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 81,
+    "dst_addr": "2001:500:12::d0d",
+    "dst_port": "53",
+    "af": 6,
+    "src_addr": "2a06:e881:5600:2:c66e:1fff:fe5b:cc52",
+    "proto": "UDP",
+    "result": {
+        "rt": 134.794,
+        "size": 70,
+        "abuf": "KJmEAAABAAEAAQAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAADQxncm9vdC1ldXIyLTHADAACAAMAAAAAAALADA==",
+        "ID": 10393,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 1,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "groot-eur2-1"
+                ]
+            }
+        ]
+    },
+    "msm_id": 11314,
+    "prb_id": 27292,
+    "timestamp": 1624494424,
+    "msm_name": "Tdig",
+    "from": "2a06:e881:5600:2:c66e:1fff:fe5b:cc52",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 83,
+    "resultset": [
+        {
+            "time": 1624494427,
+            "lts": 83,
+            "subid": 1,
+            "submax": 3,
+            "dst_addr": "8.8.8.8",
+            "dst_port": "53",
+            "af": 4,
+            "src_addr": "44.190.23.227",
+            "proto": "UDP",
+            "result": {
+                "rt": 49.708,
+                "size": 146,
+                "abuf": "ugiBgAABAAIAAAAADHFuYW1lbWludGVzdAhpbnRlcm5ldAJubAAAEAABwAwABQABAAAACQAUAWEBYg1xbmFtZW1pbi10ZXN0wBnANgAQAAEAAAAJADw7SE9PUkFZIC0gUU5BTUUgbWluaW1pc2F0aW9uIGlzIGVuYWJsZWQgb24geW91ciByZXNvbHZlciA6KSE=",
+                "ID": 47624,
+                "ANCOUNT": 2,
+                "QDCOUNT": 1,
+                "NSCOUNT": 0,
+                "ARCOUNT": 0,
+                "answers": [
+                    {
+                        "TYPE": "TXT",
+                        "NAME": "a.b.qnamemin-test.internet.nl",
+                        "RDATA": [
+                            "HOORAY - QNAME minimisation is enabled on your resolver :)!"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "time": 1624494428,
+            "lts": 84,
+            "subid": 2,
+            "submax": 3,
+            "dst_addr": "2001:4860:4860::8888",
+            "dst_port": "53",
+            "af": 6,
+            "src_addr": "2a06:e881:5600:2:c66e:1fff:fe5b:cc52",
+            "proto": "UDP",
+            "result": {
+                "rt": 64.322,
+                "size": 146,
+                "abuf": "VkuBgAABAAIAAAAADHFuYW1lbWludGVzdAhpbnRlcm5ldAJubAAAEAABwAwABQABAAAACQAUAWEBYg1xbmFtZW1pbi10ZXN0wBnANgAQAAEAAAAJADw7SE9PUkFZIC0gUU5BTUUgbWluaW1pc2F0aW9uIGlzIGVuYWJsZWQgb24geW91ciByZXNvbHZlciA6KSE=",
+                "ID": 22091,
+                "ANCOUNT": 2,
+                "QDCOUNT": 1,
+                "NSCOUNT": 0,
+                "ARCOUNT": 0,
+                "answers": [
+                    {
+                        "TYPE": "TXT",
+                        "NAME": "a.b.qnamemin-test.internet.nl",
+                        "RDATA": [
+                            "HOORAY - QNAME minimisation is enabled on your resolver :)!"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "time": 1624494429,
+            "lts": 85,
+            "subid": 3,
+            "submax": 3,
+            "dst_addr": "2001:4860:4860::8844",
+            "dst_port": "53",
+            "af": 6,
+            "src_addr": "2a06:e881:5600:2:c66e:1fff:fe5b:cc52",
+            "proto": "UDP",
+            "result": {
+                "rt": 51.594,
+                "size": 146,
+                "abuf": "QdCBgAABAAIAAAAADHFuYW1lbWludGVzdAhpbnRlcm5ldAJubAAAEAABwAwABQABAAAACQAUAWEBYg1xbmFtZW1pbi10ZXN0wBnANgAQAAEAAAAJADw7SE9PUkFZIC0gUU5BTUUgbWluaW1pc2F0aW9uIGlzIGVuYWJsZWQgb24geW91ciByZXNvbHZlciA6KSE=",
+                "ID": 16848,
+                "ANCOUNT": 2,
+                "QDCOUNT": 1,
+                "NSCOUNT": 0,
+                "ARCOUNT": 0,
+                "answers": [
+                    {
+                        "TYPE": "TXT",
+                        "NAME": "a.b.qnamemin-test.internet.nl",
+                        "RDATA": [
+                            "HOORAY - QNAME minimisation is enabled on your resolver :)!"
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "msm_id": 8310250,
+    "prb_id": 27292,
+    "timestamp": 1624494427,
+    "msm_name": "Tdig",
+    "from": "44.190.23.227",
+    "type": "dns",
+    "group_id": 8310250
+},
+{
+    "fw": 4790,
+    "lts": 40,
+    "dst_addr": "193.0.14.129",
+    "af": 4,
+    "src_addr": "192.168.1.193",
+    "proto": "UDP",
+    "result": {
+        "rt": 33.216,
+        "size": 65,
+        "abuf": "SayAAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAAFhVuczIubmwtYW1zLmsucmlwZS5uZXQ=",
+        "ID": 18860,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "ns2.nl-ams.k.ripe.net"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10301,
+    "prb_id": 4534,
+    "timestamp": 1624494427,
+    "msm_name": "Tdig",
+    "from": "94.246.253.244",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 11,
+    "dst_addr": "2001:7fd::1",
+    "dst_port": "53",
+    "af": 6,
+    "src_addr": "2a02:1811:2d1c:3c00:dfc7:bb9:ad4f:4228",
+    "proto": "UDP",
+    "result": {
+        "rt": 18.641,
+        "size": 128,
+        "abuf": "EcKEAAABAAEAAAABAAAGAAEAAAYAAQABUYAAQAFhDHJvb3Qtc2VydmVycwNuZXQABW5zdGxkDHZlcmlzaWduLWdycwNjb20AeHb2nQAABwgAAAOEAAk6gAABUYAAACkE0AAAAAAAGQADABVuczEubmwtYW1zLmsucmlwZS5uZXQ=",
+        "ID": 4546,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 1,
+        "answers": [
+            {
+                "TYPE": "SOA",
+                "NAME": ".",
+                "TTL": 86400,
+                "MNAME": "a.root-servers.net.",
+                "RNAME": "nstld.verisign-grs.com.",
+                "SERIAL": 2021062301
+            }
+        ]
+    },
+    "msm_id": 8319598,
+    "prb_id": 1000928,
+    "timestamp": 1624494495,
+    "msm_name": "Tdig",
+    "from": "2a02:1811:2d1c:3c00:dfc7:bb9:ad4f:4228",
+    "type": "dns",
+    "group_id": 8319598
+},
+{
+    "fw": 4790,
+    "lts": 81,
+    "dst_name": "2001:7fe::53",
+    "proto": "UDP",
+    "error": {
+        "socket": "connect failed Network is unreachable"
+    },
+    "msm_id": 11005,
+    "prb_id": 28,
+    "timestamp": 1624494443,
+    "msm_name": "Tdig",
+    "from": "fdfb:af6e:26e6:4:220:4aff:fec8:2455",
+    "type": "dns"
+},
+{
+    "fw": 4790,
+    "lts": 82,
+    "dst_name": "2001:7fd::1",
+    "proto": "UDP",
+    "error": {
+        "socket": "connect failed Network is unreachable"
+    },
+    "msm_id": 11001,
+    "prb_id": 28,
+    "timestamp": 1624494444,
+    "msm_name": "Tdig",
+    "from": "fdfb:af6e:26e6:4:220:4aff:fec8:2455",
+    "type": "dns"
+},
+{
+    "fw": 4790,
+    "lts": 88,
+    "dst_addr": "192.36.148.17",
+    "af": 4,
+    "src_addr": "192.168.1.122",
+    "proto": "UDP",
+    "result": {
+        "rt": 47.596,
+        "size": 60,
+        "abuf": "0SaEAAABAAEAAQAAAmlkBnNlcnZlcgAAEAADwAwAEAADAAAAAAAHBnMxLnBpeMAMAAIAAwAAAAAAAsAM",
+        "ID": 53542,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 1,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "id.server",
+                "RDATA": [
+                    "s1.pix"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10405,
+    "prb_id": 28,
+    "timestamp": 1624494450,
+    "msm_name": "Tdig",
+    "from": "206.214.226.65",
+    "type": "dns"
+},
+{
+    "fw": 4790,
+    "lts": 90,
+    "dst_name": "2001:500:2f::f",
+    "proto": "UDP",
+    "error": {
+        "socket": "connect failed Network is unreachable"
+    },
+    "msm_id": 11004,
+    "prb_id": 28,
+    "timestamp": 1624494452,
+    "msm_name": "Tdig",
+    "from": "fdfb:af6e:26e6:4:220:4aff:fec8:2455",
+    "type": "dns"
+},
+{
+    "fw": 4790,
+    "lts": 99,
+    "dst_name": "2001:503:ba3e::2:30",
+    "proto": "UDP",
+    "error": {
+        "socket": "connect failed Network is unreachable"
+    },
+    "msm_id": 11009,
+    "prb_id": 28,
+    "timestamp": 1624494461,
+    "msm_name": "Tdig",
+    "from": "fdfb:af6e:26e6:4:220:4aff:fec8:2455",
+    "type": "dns"
+},
+{
+    "fw": 4790,
+    "lts": 132,
+    "resultset": [
+        {
+            "time": 1624494364,
+            "lts": 132,
+            "subid": 1,
+            "submax": 1,
+            "dst_addr": "192.168.98.1",
+            "af": 4,
+            "src_addr": "192.168.98.114",
+            "proto": "UDP",
+            "result": {
+                "rt": 48.247,
+                "size": 65,
+                "abuf": "vGCBggABAAAAAAAABDI5NjAKMTYyNDQ5NDM2NAJ0Yw9yaXBlLWhhY2thdGhvbjYJbmxuZXRsYWJzAm5sAAAcAAE=",
+                "ID": 48224,
+                "ANCOUNT": 0,
+                "QDCOUNT": 1,
+                "NSCOUNT": 0,
+                "ARCOUNT": 0
+            }
+        }
+    ],
+    "msm_id": 8310364,
+    "prb_id": 2960,
+    "timestamp": 1624494364,
+    "msm_name": "Tdig",
+    "from": "84.254.74.144",
+    "type": "dns",
+    "group_id": 8310364
+},
+{
+    "fw": 4790,
+    "lts": 28,
+    "dst_addr": "193.0.14.129",
+    "af": 4,
+    "src_addr": "192.168.98.114",
+    "proto": "UDP",
+    "result": {
+        "rt": 22.161,
+        "size": 128,
+        "abuf": "N6GEAAABAAEAAAABAAAGAAEAAAYAAQABUYAAQAFhDHJvb3Qtc2VydmVycwNuZXQABW5zdGxkDHZlcmlzaWduLWdycwNjb20AeHb2nQAABwgAAAOEAAk6gAABUYAAACkE0AAAAAAAGQADABVuczEuZGUtZnJhLmsucmlwZS5uZXQ=",
+        "ID": 14241,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 1,
+        "answers": [
+            {
+                "TYPE": "SOA",
+                "NAME": ".",
+                "TTL": 86400,
+                "MNAME": "a.root-servers.net.",
+                "RNAME": "nstld.verisign-grs.com.",
+                "SERIAL": 2021062301
+            }
+        ]
+    },
+    "msm_id": 8319597,
+    "prb_id": 2960,
+    "timestamp": 1624494438,
+    "msm_name": "Tdig",
+    "from": "84.254.74.144",
+    "type": "dns",
+    "group_id": 8319597
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 62,
+    "dst_addr": "198.41.0.4",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "10.0.0.208",
+    "proto": "UDP",
+    "result": {
+        "rt": 46.732,
+        "size": 55,
+        "abuf": "aXyAAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAADAtyb290bnMtc2ZvNw==",
+        "ID": 27004,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "rootns-sfo7"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10309,
+    "prb_id": 14164,
+    "timestamp": 1624494434,
+    "msm_name": "Tdig",
+    "from": "73.254.74.61",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 17,
+    "dst_addr": "2001:500:9f::42",
+    "dst_port": "53",
+    "af": 6,
+    "src_addr": "2601:602:cb80:4800:6666:b3ff:feb0:cd98",
+    "proto": "UDP",
+    "result": {
+        "rt": 91.962,
+        "size": 509,
+        "abuf": "V42EAAABAAEADQAIAAAGAAEAAAYAAQABUYAAQAFhDHJvb3Qtc2VydmVycwNuZXQABW5zdGxkDHZlcmlzaWduLWdycwNjb20AeHb2nQAABwgAAAOEAAk6gAABUYAAAAIAAQAH6QAAAsAcAAACAAEAB+kAAAQBYsAeAAACAAEAB+kAAAQBY8AeAAACAAEAB+kAAAQBZMAeAAACAAEAB+kAAAQBZcAeAAACAAEAB+kAAAQBZsAeAAACAAEAB+kAAAQBZ8AeAAACAAEAB+kAAAQBaMAeAAACAAEAB+kAAAQBacAeAAACAAEAB+kAAAQBasAeAAACAAEAB+kAAAQBa8AeAAACAAEAB+kAAAQBbMAeAAACAAEAB+kAAAQBbcAewBwAHAABAAfpAAAQIAEFA7o+AAAAAAAAAAIAMMB0ABwAAQAH6QAAECABBQACAAAAAAAAAAAAAAvAgwAcAAEAB+kAABAgAQUAAAIAAAAAAAAAAAAMwJIAHAABAAfpAAAQIAEFAAAtAAAAAAAAAAAADcChABwAAQAH6QAAECABBQAAqAAAAAAAAAAAAA7AsAAcAAEAB+kAABAgAQUAAC8AAAAAAAAAAAAPwL8AHAABAAfpAAAQIAEFAAASAAAAAAAAAAANDcDOABwAAQAH6QAAECABBQAAAQAAAAAAAAAAAFM=",
+        "ID": 22413,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 13,
+        "ARCOUNT": 8,
+        "answers": [
+            {
+                "TYPE": "SOA",
+                "NAME": ".",
+                "TTL": 86400,
+                "MNAME": "a.root-servers.net.",
+                "RNAME": "nstld.verisign-grs.com.",
+                "SERIAL": 2021062301
+            }
+        ]
+    },
+    "msm_id": 11008,
+    "prb_id": 14164,
+    "timestamp": 1624494480,
+    "msm_name": "Tdig",
+    "from": "2601:602:cb80:4800:6666:b3ff:feb0:cd98",
+    "type": "dns"
+},
+{
+    "fw": 4790,
+    "lts": 137,
+    "dst_addr": "198.41.0.4",
+    "af": 4,
+    "src_addr": "192.168.1.9",
+    "proto": "UDP",
+    "result": {
+        "rt": 30.914,
+        "size": 493,
+        "abuf": "u06EAAABAAEADQANAAAGAAEAAAYAAQABUYAAQAFhDHJvb3Qtc2VydmVycwNuZXQABW5zdGxkDHZlcmlzaWduLWdycwNjb20AeHb2nQAABwgAAAOEAAk6gAABUYAAAAIAAQAH6QAAAsAcAAACAAEAB+kAAAQBYsAeAAACAAEAB+kAAAQBY8AeAAACAAEAB+kAAAQBZMAeAAACAAEAB+kAAAQBZcAeAAACAAEAB+kAAAQBZsAeAAACAAEAB+kAAAQBZ8AeAAACAAEAB+kAAAQBaMAeAAACAAEAB+kAAAQBacAeAAACAAEAB+kAAAQBasAeAAACAAEAB+kAAAQBa8AeAAACAAEAB+kAAAQBbMAeAAACAAEAB+kAAAQBbcAewBwAAQABAAfpAAAExikABMB0AAEAAQAH6QAABMcJDsnAgwABAAEAB+kAAATAIQQMwJIAAQABAAfpAAAExwdbDcChAAEAAQAH6QAABMDL5grAsAABAAEAB+kAAATABQXxwL8AAQABAAfpAAAEwHAkBMDOAAEAAQAH6QAABMZhvjXA3QABAAEAB+kAAATAJJQRwOwAAQABAAfpAAAEwDqAHsD7AAEAAQAH6QAABMEADoHBCgABAAEAB+kAAATHB1MqwRkAAQABAAfpAAAEygwbIQ==",
+        "ID": 47950,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 13,
+        "ARCOUNT": 13,
+        "answers": [
+            {
+                "TYPE": "SOA",
+                "NAME": ".",
+                "TTL": 86400,
+                "MNAME": "a.root-servers.net.",
+                "RNAME": "nstld.verisign-grs.com.",
+                "SERIAL": 2021062301
+            }
+        ]
+    },
+    "msm_id": 10009,
+    "prb_id": 2156,
+    "timestamp": 1624494374,
+    "msm_name": "Tdig",
+    "from": "176.133.91.143",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 51,
+    "dst_addr": "2001:500:3::42",
+    "dst_port": "53",
+    "af": 6,
+    "src_addr": "2a09:3dc0:0:1:1:28ff:fee9:cc91",
+    "proto": "UDP",
+    "result": {
+        "rt": 68.208,
+        "size": 881,
+        "abuf": "ur+EAAABAAEADQAbAAAGAAEAAAYAAQABUYAAQAFhDHJvb3Qtc2VydmVycwNuZXQABW5zdGxkDHZlcmlzaWduLWdycwNjb20AeHb2nQAABwgAAAOEAAk6gAABUYAAAAIAAQAH6QAAAsAcAAACAAEAB+kAAAQBYsAeAAACAAEAB+kAAAQBY8AeAAACAAEAB+kAAAQBZMAeAAACAAEAB+kAAAQBZcAeAAACAAEAB+kAAAQBZsAeAAACAAEAB+kAAAQBZ8AeAAACAAEAB+kAAAQBaMAeAAACAAEAB+kAAAQBacAeAAACAAEAB+kAAAQBasAeAAACAAEAB+kAAAQBa8AeAAACAAEAB+kAAAQBbMAeAAACAAEAB+kAAAQBbcAewBwAHAABAAfpAAAQIAEFA7o+AAAAAAAAAAIAMMB0ABwAAQAH6QAAECABBQACAAAAAAAAAAAAAAvAgwAcAAEAB+kAABAgAQUAAAIAAAAAAAAAAAAMwJIAHAABAAfpAAAQIAEFAAAtAAAAAAAAAAAADcChABwAAQAH6QAAECABBQAAqAAAAAAAAAAAAA7AsAAcAAEAB+kAABAgAQUAAC8AAAAAAAAAAAAPwL8AHAABAAfpAAAQIAEFAAASAAAAAAAAAAANDcDOABwAAQAH6QAAECABBQAAAQAAAAAAAAAAAFPA3QAcAAEAB+kAABAgAQf+AAAAAAAAAAAAAABTwOwAHAABAAfpAAAQIAEFAwwnAAAAAAAAAAIAMMD7ABwAAQAH6QAAECABB/0AAAAAAAAAAAAAAAHBCgAcAAEAB+kAABAgAQUAAJ8AAAAAAAAAAABCwRkAHAABAAfpAAAQIAENwwAAAAAAAAAAAAAANcAcAAEAAQAH6QAABMYpAATAdAABAAEAB+kAAATHCQ7JwIMAAQABAAfpAAAEwCEEDMCSAAEAAQAH6QAABMcHWw3AoQABAAEAB+kAAATAy+YKwLAAAQABAAfpAAAEwAUF8cC/AAEAAQAH6QAABMBwJATAzgABAAEAB+kAAATGYb41wN0AAQABAAfpAAAEwCSUEcDsAAEAAQAH6QAABMA6gB7A+wABAAEAB+kAAATBAA6BwQoAAQABAAfpAAAExwdTKsEZAAEAAQAH6QAABMoMGyEAACkQAAAAAAAADQADAAljei14dXktYWE=",
+        "ID": 47807,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 13,
+        "ARCOUNT": 27,
+        "answers": [
+            {
+                "TYPE": "SOA",
+                "NAME": ".",
+                "TTL": 86400,
+                "MNAME": "a.root-servers.net.",
+                "RNAME": "nstld.verisign-grs.com.",
+                "SERIAL": 2021062301
+            }
+        ]
+    },
+    "msm_id": 1004047,
+    "prb_id": 54032,
+    "timestamp": 1624494409,
+    "msm_name": "Tdig",
+    "from": "2a09:3dc0:0:1:1:28ff:fee9:cc91",
+    "type": "dns",
+    "group_id": 1004047
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 27,
+    "dst_addr": "192.33.4.12",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "192.168.88.252",
+    "proto": "UDP",
+    "result": {
+        "rt": 55.623,
+        "size": 82,
+        "abuf": "LdaEAAABAAEAAQAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAAGRhidHMxYS5jLnJvb3Qtc2VydmVycy5vcmfADAACAAMAAAAAAALADA==",
+        "ID": 11734,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 1,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "bts1a.c.root-servers.org"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10311,
+    "prb_id": 54032,
+    "timestamp": 1624494473,
+    "msm_name": "Tdig",
+    "from": "171.22.144.144",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 28,
+    "resultset": [
+        {
+            "time": 1624494388,
+            "lts": 28,
+            "subid": 1,
+            "submax": 3,
+            "dst_addr": "195.62.97.177",
+            "dst_port": "53",
+            "af": 4,
+            "src_addr": "195.62.99.250",
+            "proto": "UDP",
+            "result": {
+                "rt": 14.286,
+                "size": 67,
+                "abuf": "HGyBgAABAAEAAAAAA28tbwZteWFkZHIBbAZnb29nbGUDY29tAAAQAAHADAAQAAEAAAA8AA4NMTk1LjYyLjk3LjE3Nw==",
+                "ID": 7276,
+                "ANCOUNT": 1,
+                "QDCOUNT": 1,
+                "NSCOUNT": 0,
+                "ARCOUNT": 0,
+                "answers": [
+                    {
+                        "TYPE": "TXT",
+                        "NAME": "o-o.myaddr.l.google.com",
+                        "RDATA": [
+                            "195.62.97.177"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "time": 1624494389,
+            "lts": 29,
+            "subid": 2,
+            "submax": 3,
+            "dst_addr": "82.141.0.101",
+            "dst_port": "53",
+            "af": 4,
+            "src_addr": "195.62.99.250",
+            "proto": "UDP",
+            "result": {
+                "rt": 25.488,
+                "size": 66,
+                "abuf": "BEeBgAABAAEAAAAAA28tbwZteWFkZHIBbAZnb29nbGUDY29tAAAQAAHADAAQAAEAAAA8AA0MODIuMTQxLjAuMTAx",
+                "ID": 1095,
+                "ANCOUNT": 1,
+                "QDCOUNT": 1,
+                "NSCOUNT": 0,
+                "ARCOUNT": 0,
+                "answers": [
+                    {
+                        "TYPE": "TXT",
+                        "NAME": "o-o.myaddr.l.google.com",
+                        "RDATA": [
+                            "82.141.0.101"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "time": 1624494390,
+            "lts": 30,
+            "subid": 3,
+            "submax": 3,
+            "dst_addr": "2a02:248:0:98::182",
+            "dst_port": "53",
+            "af": 6,
+            "src_addr": "2a02:248:2:136:1:89ff:fe23:7bbe",
+            "proto": "UDP",
+            "result": {
+                "rt": 13.584,
+                "size": 67,
+                "abuf": "TRKBgAABAAEAAAAAA28tbwZteWFkZHIBbAZnb29nbGUDY29tAAAQAAHADAAQAAEAAAA8AA4NMTk1LjYyLjk3LjE4Mg==",
+                "ID": 19730,
+                "ANCOUNT": 1,
+                "QDCOUNT": 1,
+                "NSCOUNT": 0,
+                "ARCOUNT": 0,
+                "answers": [
+                    {
+                        "TYPE": "TXT",
+                        "NAME": "o-o.myaddr.l.google.com",
+                        "RDATA": [
+                            "195.62.97.182"
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "msm_id": 8310237,
+    "prb_id": 53047,
+    "timestamp": 1624494388,
+    "msm_name": "Tdig",
+    "from": "195.62.99.250",
+    "type": "dns",
+    "group_id": 8310237
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 33,
+    "dst_addr": "2001:500:200::b",
+    "dst_port": "53",
+    "af": 6,
+    "src_addr": "2a02:248:2:136:1:89ff:fe23:7bbe",
+    "proto": "UDP",
+    "result": {
+        "rt": 146.284,
+        "size": 46,
+        "abuf": "rwWAAAABAAEAAAAAAmlkBnNlcnZlcgAAEAADwAwAEAADAAAAAAAHBmIyLWxheA==",
+        "ID": 44805,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "id.server",
+                "RDATA": [
+                    "b2-lax"
+                ]
+            }
+        ]
+    },
+    "msm_id": 11410,
+    "prb_id": 53047,
+    "timestamp": 1624494393,
+    "msm_name": "Tdig",
+    "from": "2a02:248:2:136:1:89ff:fe23:7bbe",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 70,
+    "dst_addr": "193.0.14.129",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "10.0.0.4",
+    "proto": "UDP",
+    "result": {
+        "rt": 45.731,
+        "size": 128,
+        "abuf": "lNSEAAABAAEAAAABAAAGAAEAAAYAAQABUYAAQAFhDHJvb3Qtc2VydmVycwNuZXQABW5zdGxkDHZlcmlzaWduLWdycwNjb20AeHb2nQAABwgAAAOEAAk6gAABUYAAACkE0AAAAAAAGQADABVuczEuYXUtYm5lLmsucmlwZS5uZXQ=",
+        "ID": 38100,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 1,
+        "answers": [
+            {
+                "TYPE": "SOA",
+                "NAME": ".",
+                "TTL": 86400,
+                "MNAME": "a.root-servers.net.",
+                "RNAME": "nstld.verisign-grs.com.",
+                "SERIAL": 2021062301
+            }
+        ]
+    },
+    "msm_id": 8319597,
+    "prb_id": 33055,
+    "timestamp": 1624494436,
+    "msm_name": "Tdig",
+    "from": "110.141.140.123",
+    "type": "dns",
+    "group_id": 8319597
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 30,
+    "resultset": [
+        {
+            "time": 1624494486,
+            "lts": 30,
+            "subid": 1,
+            "submax": 1,
+            "dst_addr": "192.168.188.1",
+            "dst_port": "53",
+            "af": 4,
+            "src_addr": "192.168.188.34",
+            "proto": "UDP",
+            "result": {
+                "rt": 30.793,
+                "size": 61,
+                "abuf": "kfaBgAABAAEAAAAABWJvZ3VzBmQyYThuMwpyb290Y2FuYXJ5A25ldAAAAQABwAwAAQABAAAAPAAEkWEUEQ==",
+                "ID": 37366,
+                "ANCOUNT": 1,
+                "QDCOUNT": 1,
+                "NSCOUNT": 0,
+                "ARCOUNT": 0
+            }
+        }
+    ],
+    "msm_id": 8926864,
+    "prb_id": 29292,
+    "timestamp": 1624494486,
+    "msm_name": "Tdig",
+    "from": "95.88.99.46",
+    "type": "dns",
+    "group_id": 8926864
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 61,
+    "resultset": [
+        {
+            "time": 1624494517,
+            "lts": 61,
+            "subid": 1,
+            "submax": 1,
+            "dst_addr": "192.168.188.1",
+            "dst_port": "53",
+            "af": 4,
+            "src_addr": "192.168.188.34",
+            "proto": "UDP",
+            "result": {
+                "rt": 32.845,
+                "size": 61,
+                "abuf": "cYKBgAABAAEAAAAABWJvZ3VzBmQyYTNuMQpyb290Y2FuYXJ5A25ldAAAAQABwAwAAQABAAAAPAAEkWEUEQ==",
+                "ID": 29058,
+                "ANCOUNT": 1,
+                "QDCOUNT": 1,
+                "NSCOUNT": 0,
+                "ARCOUNT": 0
+            }
+        }
+    ],
+    "msm_id": 8926856,
+    "prb_id": 29292,
+    "timestamp": 1624494517,
+    "msm_name": "Tdig",
+    "from": "95.88.99.46",
+    "type": "dns",
+    "group_id": 8926856
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 61,
+    "resultset": [
+        {
+            "time": 1624494517,
+            "lts": 61,
+            "subid": 1,
+            "submax": 1,
+            "dst_addr": "192.168.188.1",
+            "dst_port": "53",
+            "af": 4,
+            "src_addr": "192.168.188.34",
+            "proto": "UDP",
+            "result": {
+                "rt": 31.96,
+                "size": 62,
+                "abuf": "doOBgAABAAEAAAAABnNlY3VyZQZkMmExbjEKcm9vdGNhbmFyeQNuZXQAAAEAAcAMAAEAAQAAADwABJFhFBE=",
+                "ID": 30339,
+                "ANCOUNT": 1,
+                "QDCOUNT": 1,
+                "NSCOUNT": 0,
+                "ARCOUNT": 0
+            }
+        }
+    ],
+    "msm_id": 8926853,
+    "prb_id": 29292,
+    "timestamp": 1624494517,
+    "msm_name": "Tdig",
+    "from": "95.88.99.46",
+    "type": "dns",
+    "group_id": 8926853
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 62,
+    "resultset": [
+        {
+            "time": 1624494518,
+            "lts": 62,
+            "subid": 1,
+            "submax": 1,
+            "dst_addr": "192.168.188.1",
+            "dst_port": "53",
+            "af": 4,
+            "src_addr": "192.168.188.34",
+            "proto": "UDP",
+            "result": {
+                "rt": 30.571,
+                "size": 62,
+                "abuf": "zx6BgAABAAEAAAAABnNlY3VyZQZkMmEzbjEKcm9vdGNhbmFyeQNuZXQAAAEAAcAMAAEAAQAAADwABJFhFBE=",
+                "ID": 53022,
+                "ANCOUNT": 1,
+                "QDCOUNT": 1,
+                "NSCOUNT": 0,
+                "ARCOUNT": 0
+            }
+        }
+    ],
+    "msm_id": 8926855,
+    "prb_id": 29292,
+    "timestamp": 1624494518,
+    "msm_name": "Tdig",
+    "from": "95.88.99.46",
+    "type": "dns",
+    "group_id": 8926855
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 11,
+    "dst_addr": "198.97.190.53",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "185.17.112.95",
+    "proto": "TCP",
+    "result": {
+        "rt": 73.687,
+        "qt": 36.807,
+        "size": 857,
+        "abuf": "npyEAAABAAEADQAaAAAGAAEAAAYAAQABUYAAQAFhDHJvb3Qtc2VydmVycwNuZXQABW5zdGxkDHZlcmlzaWduLWdycwNjb20AeHb2nQAABwgAAAOEAAk6gAABUYAAAAIAAQAH6QAAAsAcAAACAAEAB+kAAAQBYsAeAAACAAEAB+kAAAQBY8AeAAACAAEAB+kAAAQBZMAeAAACAAEAB+kAAAQBZcAeAAACAAEAB+kAAAQBZsAeAAACAAEAB+kAAAQBZ8AeAAACAAEAB+kAAAQBaMAeAAACAAEAB+kAAAQBacAeAAACAAEAB+kAAAQBasAeAAACAAEAB+kAAAQBa8AeAAACAAEAB+kAAAQBbMAeAAACAAEAB+kAAAQBbcAewBwAAQABAAfpAAAExikABMB0AAEAAQAH6QAABMcJDsnAgwABAAEAB+kAAATAIQQMwJIAAQABAAfpAAAExwdbDcChAAEAAQAH6QAABMDL5grAsAABAAEAB+kAAATABQXxwL8AAQABAAfpAAAEwHAkBMDOAAEAAQAH6QAABMZhvjXA3QABAAEAB+kAAATAJJQRwOwAAQABAAfpAAAEwDqAHsD7AAEAAQAH6QAABMEADoHBCgABAAEAB+kAAATHB1MqwRkAAQABAAfpAAAEygwbIcAcABwAAQAH6QAAECABBQO6PgAAAAAAAAACADDAdAAcAAEAB+kAABAgAQUAAgAAAAAAAAAAAAALwIMAHAABAAfpAAAQIAEFAAACAAAAAAAAAAAADMCSABwAAQAH6QAAECABBQAALQAAAAAAAAAAAA3AoQAcAAEAB+kAABAgAQUAAKgAAAAAAAAAAAAOwLAAHAABAAfpAAAQIAEFAAAvAAAAAAAAAAAAD8C/ABwAAQAH6QAAECABBQAAEgAAAAAAAAAADQ3AzgAcAAEAB+kAABAgAQUAAAEAAAAAAAAAAABTwN0AHAABAAfpAAAQIAEH/gAAAAAAAAAAAAAAU8DsABwAAQAH6QAAECABBQMMJwAAAAAAAAACADDA+wAcAAEAB+kAABAgAQf9AAAAAAAAAAAAAAABwQoAHAABAAfpAAAQIAEFAACfAAAAAAAAAAAAQsEZABwAAQAH6QAAECABDcMAAAAAAAAAAAAAADU=",
+        "ID": 40604,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 13,
+        "ARCOUNT": 26,
+        "answers": [
+            {
+                "TYPE": "SOA",
+                "NAME": ".",
+                "TTL": 86400,
+                "MNAME": "a.root-servers.net.",
+                "RNAME": "nstld.verisign-grs.com.",
+                "SERIAL": 2021062301
+            }
+        ]
+    },
+    "msm_id": 10115,
+    "prb_id": 6776,
+    "timestamp": 1624494491,
+    "msm_name": "Tdig",
+    "from": "185.17.112.95",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 36,
+    "dst_addr": "2001:503:ba3e::2:30",
+    "dst_port": "53",
+    "af": 6,
+    "src_addr": "2a02:4780:8:6::16",
+    "proto": "UDP",
+    "result": {
+        "rt": 3.846,
+        "size": 53,
+        "abuf": "JXKEAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAACglubm4xLWFtczU=",
+        "ID": 9586,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "nnn1-ams5"
+                ]
+            }
+        ]
+    },
+    "msm_id": 11309,
+    "prb_id": 1002190,
+    "timestamp": 1624494534,
+    "msm_name": "Tdig",
+    "from": "2a02:4780:8:6::16",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 61,
+    "dst_addr": "2001:503:c27::2:30",
+    "dst_port": "53",
+    "af": 6,
+    "src_addr": "2a0d:82c0::5054:ff:fe4d:3a11",
+    "proto": "UDP",
+    "result": {
+        "rt": 47.837,
+        "size": 57,
+        "abuf": "f1OAAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAADg1yb290bnMtZWxsaXMz",
+        "ID": 32595,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "rootns-ellis3"
+                ]
+            }
+        ]
+    },
+    "msm_id": 11316,
+    "prb_id": 1000016,
+    "timestamp": 1624494532,
+    "msm_name": "Tdig",
+    "from": "2a0d:82c0::5054:ff:fe4d:3a11",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 70,
+    "dst_addr": "192.36.148.17",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "185.166.144.198",
+    "proto": "UDP",
+    "result": {
+        "rt": 37.495,
+        "size": 64,
+        "abuf": "c3WEAAABAAEAAQAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAABwZzMS5ibnjADAACAAMAAAAAAALADA==",
+        "ID": 29557,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 1,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "s1.bnx"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10305,
+    "prb_id": 1000016,
+    "timestamp": 1624494541,
+    "msm_name": "Tdig",
+    "from": "185.166.144.198",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 69,
+    "resultset": [
+        {
+            "time": 1624494436,
+            "lts": 69,
+            "subid": 1,
+            "submax": 2,
+            "dst_addr": "10.10.10.10",
+            "dst_port": "53",
+            "af": 4,
+            "src_addr": "192.168.200.8",
+            "proto": "UDP",
+            "result": {
+                "rt": 1049.19,
+                "size": 63,
+                "abuf": "3PiBgAABAAEAAAAABnNlY3VyZQdkMmExNG4zCnJvb3RjYW5hcnkDbmV0AAABAAHADAABAAEAAAA8AASRYRQR",
+                "ID": 56568,
+                "ANCOUNT": 1,
+                "QDCOUNT": 1,
+                "NSCOUNT": 0,
+                "ARCOUNT": 0
+            }
+        },
+        {
+            "time": 1624494438,
+            "lts": 70,
+            "subid": 2,
+            "submax": 2,
+            "dst_addr": "10.10.10.11",
+            "dst_port": "53",
+            "af": 4,
+            "src_addr": "192.168.200.8",
+            "proto": "UDP",
+            "result": {
+                "rt": 2.117,
+                "size": 63,
+                "abuf": "nL2BgAABAAEAAAAABnNlY3VyZQdkMmExNG4zCnJvb3RjYW5hcnkDbmV0AAABAAHADAABAAEAAAA7AASRYRQR",
+                "ID": 40125,
+                "ANCOUNT": 1,
+                "QDCOUNT": 1,
+                "NSCOUNT": 0,
+                "ARCOUNT": 0
+            }
+        }
+    ],
+    "msm_id": 8926871,
+    "prb_id": 21629,
+    "timestamp": 1624494436,
+    "msm_name": "Tdig",
+    "from": "61.4.76.89",
+    "type": "dns",
+    "group_id": 8926871
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 4,
+    "resultset": [
+        {
+            "time": 1624494444,
+            "lts": 4,
+            "subid": 1,
+            "submax": 2,
+            "dst_addr": "10.10.10.10",
+            "dst_port": "53",
+            "af": 4,
+            "src_addr": "192.168.200.8",
+            "proto": "UDP",
+            "result": {
+                "rt": 213.485,
+                "size": 62,
+                "abuf": "h5aBgAABAAEAAAAABWJvZ3VzB2QyYTE2bjMKcm9vdGNhbmFyeQNuZXQAAAEAAcAMAAEAAQAAADwABJFhFBE=",
+                "ID": 34710,
+                "ANCOUNT": 1,
+                "QDCOUNT": 1,
+                "NSCOUNT": 0,
+                "ARCOUNT": 0
+            }
+        },
+        {
+            "time": 1624494445,
+            "lts": 5,
+            "subid": 2,
+            "submax": 2,
+            "dst_addr": "10.10.10.11",
+            "dst_port": "53",
+            "af": 4,
+            "src_addr": "192.168.200.8",
+            "proto": "UDP",
+            "result": {
+                "rt": 1.487,
+                "size": 62,
+                "abuf": "w0yBgAABAAEAAAAABWJvZ3VzB2QyYTE2bjMKcm9vdGNhbmFyeQNuZXQAAAEAAcAMAAEAAQAAADsABJFhFBE=",
+                "ID": 49996,
+                "ANCOUNT": 1,
+                "QDCOUNT": 1,
+                "NSCOUNT": 0,
+                "ARCOUNT": 0
+            }
+        }
+    ],
+    "msm_id": 8926876,
+    "prb_id": 21629,
+    "timestamp": 1624494444,
+    "msm_name": "Tdig",
+    "from": "61.4.76.89",
+    "type": "dns",
+    "group_id": 8926876
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 50,
+    "dst_addr": "202.12.27.33",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "50.23.39.62",
+    "proto": "UDP",
+    "result": {
+        "rt": 141.259,
+        "size": 71,
+        "abuf": "rjOEAAABAAEAAQAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAADg1NLU5SVC1ESVhJRS0xwAwAAgADAAAAAAACwAw=",
+        "ID": 44595,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 1,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "M-NRT-DIXIE-1"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10306,
+    "prb_id": 10657,
+    "timestamp": 1624494427,
+    "msm_name": "Tdig",
+    "from": "50.23.39.62",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 50,
+    "dst_addr": "192.112.36.4",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "50.23.39.62",
+    "proto": "UDP",
+    "result": {
+        "rt": 14.387,
+        "size": 493,
+        "abuf": "bi+EAAABAAEADQANAAAGAAEAAAYAAQABUYAAQAFhDHJvb3Qtc2VydmVycwNuZXQABW5zdGxkDHZlcmlzaWduLWdycwNjb20AeHb2nQAABwgAAAOEAAk6gAABUYAAAAIAAQAH6QAABAFqwB4AAAIAAQAH6QAABAFjwB4AAAIAAQAH6QAAAsAcAAACAAEAB+kAAAQBbMAeAAACAAEAB+kAAAQBZMAeAAACAAEAB+kAAAQBacAeAAACAAEAB+kAAAQBbcAeAAACAAEAB+kAAAQBZ8AeAAACAAEAB+kAAAQBa8AeAAACAAEAB+kAAAQBaMAeAAACAAEAB+kAAAQBYsAeAAACAAEAB+kAAAQBZsAeAAACAAEAB+kAAAQBZcAewBwAAQABADbugAAExikABMD7AAEAAQA27oAABMcJDsnAdgABAAEANu6AAATAIQQMwKEAAQABADbugAAExwdbDcEZAAEAAQA27oAABMDL5grBCgABAAEANu6AAATABQXxwM4AAQABADbugAAEwHAkBMDsAAEAAQA27oAABMZhvjXAsAABAAEANu6AAATAJJQRwGcAAQABADbugAAEwDqAHsDdAAEAAQA27oAABMEADoHAkgABAAEANu6AAATHB1MqwL8AAQABADbugAAEygwbIQ==",
+        "ID": 28207,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 13,
+        "ARCOUNT": 13,
+        "answers": [
+            {
+                "TYPE": "SOA",
+                "NAME": ".",
+                "TTL": 86400,
+                "MNAME": "a.root-servers.net.",
+                "RNAME": "nstld.verisign-grs.com.",
+                "SERIAL": 2021062301
+            }
+        ]
+    },
+    "msm_id": 10014,
+    "prb_id": 10657,
+    "timestamp": 1624494427,
+    "msm_name": "Tdig",
+    "from": "50.23.39.62",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 0,
+    "dst_addr": "199.7.83.42",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "50.23.39.62",
+    "proto": "UDP",
+    "result": {
+        "rt": 17.64,
+        "size": 53,
+        "abuf": "dY2AAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAACglteC1tdHktYWM=",
+        "ID": 30093,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "mx-mty-ac"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10308,
+    "prb_id": 10657,
+    "timestamp": 1624494441,
+    "msm_name": "Tdig",
+    "from": "50.23.39.62",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 55,
+    "dst_addr": "202.12.27.33",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "192.168.2.240",
+    "proto": "UDP",
+    "result": {
+        "rt": 64.165,
+        "size": 493,
+        "abuf": "GumEAAABAAEADQANAAAGAAEAAAYAAQABUYAAQAFhDHJvb3Qtc2VydmVycwNuZXQABW5zdGxkDHZlcmlzaWduLWdycwNjb20AeHb2nQAABwgAAAOEAAk6gAABUYAAAAIAAQAH6QAABAFkwB4AAAIAAQAH6QAABAFjwB4AAAIAAQAH6QAABAFpwB4AAAIAAQAH6QAABAFlwB4AAAIAAQAH6QAABAFrwB4AAAIAAQAH6QAABAFtwB4AAAIAAQAH6QAABAFswB4AAAIAAQAH6QAABAFnwB4AAAIAAQAH6QAABAFiwB4AAAIAAQAH6QAABAFqwB4AAAIAAQAH6QAABAFowB4AAAIAAQAH6QAABAFmwB4AAAIAAQAH6QAAAsAcwBwAAQABADbugAAExikABMDfAAEAAQA27oAABMcJDsnAdgABAAEANu6AAATAIQQMwGcAAQABADbugAAExwdbDcCUAAEAAQA27oAABMDL5grBDAABAAEANu6AAATABQXxwNAAAQABADbugAAEwHAkBMD9AAEAAQA27oAABMZhvjXAhQABAAEANu6AAATAJJQRwO4AAQABADbugAAEwDqAHsCjAAEAAQA27oAABMEADoHAwQABAAEANu6AAATHB1MqwLIAAQABADbugAAEygwbIQ==",
+        "ID": 6889,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 13,
+        "ARCOUNT": 13,
+        "answers": [
+            {
+                "TYPE": "SOA",
+                "NAME": ".",
+                "TTL": 86400,
+                "MNAME": "a.root-servers.net.",
+                "RNAME": "nstld.verisign-grs.com.",
+                "SERIAL": 2021062301
+            }
+        ]
+    },
+    "msm_id": 10006,
+    "prb_id": 32707,
+    "timestamp": 1624494432,
+    "msm_name": "Tdig",
+    "from": "46.197.0.67",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 15,
+    "resultset": [
+        {
+            "time": 1624494475,
+            "lts": 15,
+            "subid": 1,
+            "submax": 1,
+            "dst_addr": "192.168.2.1",
+            "dst_port": "53",
+            "af": 4,
+            "src_addr": "192.168.2.240",
+            "proto": "UDP",
+            "qbuf": "BFMBAAABAAAAAAAABTMyNzA3BWF0bGFzBHJpcGUDbmV0EDM5MzdhYzExMTM3ZWQ1OTEAAAEAAQ==",
+            "result": {
+                "rt": 9.427,
+                "size": 130,
+                "abuf": "BFOBgwABAAAAAQAABTMyNzA3BWF0bGFzBHJpcGUDbmV0EDM5MzdhYzExMTM3ZWQ1OTEAAAEAAQAABgABAAAqMABAAWEMcm9vdC1zZXJ2ZXJzA25ldAAFbnN0bGQMdmVyaXNpZ24tZ3JzA2NvbQB4dvadAAAHCAAAA4QACTqAAAFRgA==",
+                "ID": 1107,
+                "ANCOUNT": 0,
+                "QDCOUNT": 1,
+                "NSCOUNT": 1,
+                "ARCOUNT": 0
+            }
+        }
+    ],
+    "msm_id": 30001,
+    "prb_id": 32707,
+    "timestamp": 1624494475,
+    "msm_name": "Tdig",
+    "from": "46.197.0.67",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 26,
+    "dst_addr": "2001:500:200::b",
+    "dst_port": "53",
+    "af": 6,
+    "src_addr": "2a01:e0a:a37:94b0:6666:b3ff:fed1:2eea",
+    "proto": "UDP",
+    "result": {
+        "rt": 256.332,
+        "size": 50,
+        "abuf": "40uAAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAABwZiMy1hcmk=",
+        "ID": 58187,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "b3-ari"
+                ]
+            }
+        ]
+    },
+    "msm_id": 11310,
+    "prb_id": 17131,
+    "timestamp": 1624494478,
+    "msm_name": "Tdig",
+    "from": "2a01:e0a:a37:94b0:6666:b3ff:fed1:2eea",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 0,
+    "dst_addr": "193.0.14.129",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "172.20.2.118",
+    "proto": "UDP",
+    "result": {
+        "rt": 91.354,
+        "size": 128,
+        "abuf": "f8CEAAABAAEAAAABAAAGAAEAAAYAAQABUYAAQAFhDHJvb3Qtc2VydmVycwNuZXQABW5zdGxkDHZlcmlzaWduLWdycwNjb20AeHb2nQAABwgAAAOEAAk6gAABUYAAACkE0AAAAAAAGQADABVuczMudXMtbWlhLmsucmlwZS5uZXQ=",
+        "ID": 32704,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 1,
+        "answers": [
+            {
+                "TYPE": "SOA",
+                "NAME": ".",
+                "TTL": 86400,
+                "MNAME": "a.root-servers.net.",
+                "RNAME": "nstld.verisign-grs.com.",
+                "SERIAL": 2021062301
+            }
+        ]
+    },
+    "msm_id": 8319597,
+    "prb_id": 10556,
+    "timestamp": 1624494438,
+    "msm_name": "Tdig",
+    "from": "107.184.76.234",
+    "type": "dns",
+    "group_id": 8319597
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 65,
+    "dst_addr": "193.0.14.129",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "172.20.2.118",
+    "proto": "UDP",
+    "result": {
+        "rt": 75.125,
+        "size": 65,
+        "abuf": "ariAAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAAFhVuczIudXMtbWlhLmsucmlwZS5uZXQ=",
+        "ID": 27320,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "ns2.us-mia.k.ripe.net"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10301,
+    "prb_id": 10556,
+    "timestamp": 1624494515,
+    "msm_name": "Tdig",
+    "from": "107.184.76.234",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 26,
+    "resultset": [
+        {
+            "time": 1624494472,
+            "lts": 26,
+            "subid": 1,
+            "submax": 1,
+            "dst_addr": "192.168.100.1",
+            "dst_port": "53",
+            "af": 4,
+            "src_addr": "192.168.100.2",
+            "proto": "UDP",
+            "qbuf": "neIBAAABAAAAAAABJmUyYWIyMGRjNDEzMTUwNTEtMTYyNDQ5NDQ3Mi0zMzc3My1yc2x2CjE1MDAtcGx1czAFcG10dTQKcm9vdGNhbmFyeQNuZXQAAAEAAQAAKRAAAAAAAAAA",
+            "result": {
+                "rt": 309.784,
+                "size": 88,
+                "abuf": "neKDgAABAAAAAAAAJmUyYWIyMGRjNDEzMTUwNTEtMTYyNDQ5NDQ3Mi0zMzc3My1yc2x2CjE1MDAtcGx1czAFcG10dTQKcm9vdGNhbmFyeQNuZXQAAAEAAQ==",
+                "ID": 40418,
+                "ANCOUNT": 0,
+                "QDCOUNT": 1,
+                "NSCOUNT": 0,
+                "ARCOUNT": 0
+            }
+        }
+    ],
+    "msm_id": 25741787,
+    "prb_id": 33773,
+    "timestamp": 1624494472,
+    "msm_name": "Tdig",
+    "from": "91.132.132.236",
+    "type": "dns",
+    "group_id": 25741787
+},
+{
+    "fw": 4790,
+    "lts": 179,
+    "dst_addr": "192.58.128.30",
+    "af": 4,
+    "src_addr": "180.222.210.141",
+    "proto": "UDP",
+    "result": {
+        "rt": 101.66,
+        "size": 57,
+        "abuf": "m26AAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAADg1yb290bnMtZWxzeWQy",
+        "ID": 39790,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "rootns-elsyd2"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10316,
+    "prb_id": 1069,
+    "timestamp": 1624494410,
+    "msm_name": "Tdig",
+    "from": "180.222.210.141",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 74,
+    "dst_addr": "2001:500:9f::42",
+    "dst_port": "53",
+    "af": 6,
+    "src_addr": "2a00:1c28:1:fafa:3::2",
+    "proto": "UDP",
+    "result": {
+        "rt": 12.749,
+        "size": 53,
+        "abuf": "J32AAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAACglydS1tb3ctYWM=",
+        "ID": 10109,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "ru-mow-ac"
+                ]
+            }
+        ]
+    },
+    "msm_id": 11308,
+    "prb_id": 15968,
+    "timestamp": 1624494434,
+    "msm_name": "Tdig",
+    "from": "2a00:1c28:1:fafa:3::2",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 31,
+    "dst_addr": "2001:500:12::d0d",
+    "dst_port": "53",
+    "af": 6,
+    "src_addr": "2a02:6d0:1:5:c24a:ff:fecc:749c",
+    "proto": "UDP",
+    "result": {
+        "rt": 67.726,
+        "size": 70,
+        "abuf": "1U6EAAABAAEAAQAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAADQxncm9vdC1ldXIyLTPADAACAAMAAAAAAALADA==",
+        "ID": 54606,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 1,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "groot-eur2-3"
+                ]
+            }
+        ]
+    },
+    "msm_id": 11314,
+    "prb_id": 20561,
+    "timestamp": 1624494493,
+    "msm_name": "Tdig",
+    "from": "2a02:6d0:1:5:c24a:ff:fecc:749c",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 34,
+    "dst_addr": "2001:500:a8::e",
+    "dst_port": "53",
+    "af": 6,
+    "src_addr": "2a02:6d0:1:5:c24a:ff:fecc:749c",
+    "proto": "UDP",
+    "result": {
+        "rt": 9.025,
+        "size": 57,
+        "abuf": "64KEAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAADwADg1jMDEuTEhSLmVyb290",
+        "ID": 60290,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "c01.LHR.eroot"
+                ]
+            }
+        ]
+    },
+    "msm_id": 11313,
+    "prb_id": 20561,
+    "timestamp": 1624494496,
+    "msm_name": "Tdig",
+    "from": "2a02:6d0:1:5:c24a:ff:fecc:749c",
+    "type": "dns"
+},
+{
+    "fw": 4760,
+    "lts": 60,
+    "dst_addr": "193.0.14.129",
+    "af": 4,
+    "src_addr": "172.16.12.25",
+    "proto": "UDP",
+    "result": {
+        "rt": 50.597,
+        "size": 128,
+        "abuf": "27GEAAABAAEAAAABAAAGAAEAAAYAAQABUYAAQAFhDHJvb3Qtc2VydmVycwNuZXQABW5zdGxkDHZlcmlzaWduLWdycwNjb20AeHb2nQAABwgAAAOEAAk6gAABUYAAACkE0AAAAAAAGQADABVuczIudXMtbWlhLmsucmlwZS5uZXQ=",
+        "ID": 56241,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 1,
+        "answers": [
+            {
+                "TYPE": "SOA",
+                "NAME": ".",
+                "TTL": 86400,
+                "MNAME": "a.root-servers.net.",
+                "RNAME": "nstld.verisign-grs.com.",
+                "SERIAL": 2021062301
+            }
+        ]
+    },
+    "msm_id": 8319597,
+    "prb_id": 32334,
+    "timestamp": 1624494438,
+    "msm_name": "Tdig",
+    "from": "66.24.161.54",
+    "type": "dns",
+    "group_id": 8319597
+},
+{
+    "fw": 4790,
+    "lts": 65,
+    "dst_addr": "192.36.148.17",
+    "af": 4,
+    "src_addr": "10.6.66.106",
+    "proto": "UDP",
+    "result": {
+        "rt": 63.521,
+        "size": 64,
+        "abuf": "LLyEAAABAAEAAQAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAABwZzMS5kZXjADAACAAMAAAAAAALADA==",
+        "ID": 11452,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 1,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "s1.dex"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10305,
+    "prb_id": 4258,
+    "timestamp": 1624494430,
+    "msm_name": "Tdig",
+    "from": "92.116.161.10",
+    "type": "dns"
+},
+{
+    "fw": 4790,
+    "lts": 111,
+    "dst_addr": "2001:7fe::53",
+    "af": 6,
+    "src_addr": "2001:16b8:302e:6500:280:a3ff:fe91:42fa",
+    "proto": "UDP",
+    "result": {
+        "rt": 34.996,
+        "size": 64,
+        "abuf": "vK2EAAABAAEAAQAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAABwZzMS5sb27ADAACAAMAAAAAAALADA==",
+        "ID": 48301,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 1,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "s1.lon"
+                ]
+            }
+        ]
+    },
+    "msm_id": 11305,
+    "prb_id": 4258,
+    "timestamp": 1624494476,
+    "msm_name": "Tdig",
+    "from": "2001:16b8:302e:6500:280:a3ff:fe91:42fa",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 50,
+    "dst_addr": "192.5.5.241",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "131.113.218.54",
+    "proto": "UDP",
+    "result": {
+        "rt": 3.271,
+        "size": 65,
+        "abuf": "RNGEAAABAAEAAAAAAmlkBnNlcnZlcgAAEAADwAwAEAADAAAAPAAaGU5SVC5jZi5mLnJvb3Qtc2VydmVycy5vcmc=",
+        "ID": 17617,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "id.server",
+                "RDATA": [
+                    "NRT.cf.f.root-servers.org"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10404,
+    "prb_id": 26859,
+    "timestamp": 1624494431,
+    "msm_name": "Tdig",
+    "from": "131.113.218.54",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 31,
+    "dst_addr": "192.203.230.10",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "145.238.186.110",
+    "proto": "UDP",
+    "error": {
+        "timeout": 5000
+    },
+    "msm_id": 10313,
+    "prb_id": 53754,
+    "timestamp": 1624494466,
+    "msm_name": "Tdig",
+    "from": "145.238.186.110",
+    "type": "dns"
+},
+{
+    "fw": 4790,
+    "lts": 78,
+    "dst_addr": "192.203.230.10",
+    "af": 4,
+    "src_addr": "172.16.2.6",
+    "proto": "UDP",
+    "result": {
+        "rt": 12.121,
+        "size": 57,
+        "abuf": "0bKEAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAADwADg1jMDEuTEhSLmVyb290",
+        "ID": 53682,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "c01.LHR.eroot"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10313,
+    "prb_id": 209,
+    "timestamp": 1624494430,
+    "msm_name": "Tdig",
+    "from": "212.159.52.129",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 42,
+    "dst_addr": "193.0.14.129",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "204.8.13.158",
+    "proto": "UDP",
+    "result": {
+        "rt": 35.291,
+        "size": 128,
+        "abuf": "toeEAAABAAEAAAABAAAGAAEAAAYAAQABUYAAQAFhDHJvb3Qtc2VydmVycwNuZXQABW5zdGxkDHZlcmlzaWduLWdycwNjb20AeHb2nQAABwgAAAOEAAk6gAABUYAAACkE0AAAAAAAGQADABVuczMudXMtbWlhLmsucmlwZS5uZXQ=",
+        "ID": 46727,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 1,
+        "answers": [
+            {
+                "TYPE": "SOA",
+                "NAME": ".",
+                "TTL": 86400,
+                "MNAME": "a.root-servers.net.",
+                "RNAME": "nstld.verisign-grs.com.",
+                "SERIAL": 2021062301
+            }
+        ]
+    },
+    "msm_id": 8319597,
+    "prb_id": 52590,
+    "timestamp": 1624494431,
+    "msm_name": "Tdig",
+    "from": "204.8.13.158",
+    "type": "dns",
+    "group_id": 8319597
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 38,
+    "dst_addr": "2001:7fd::1",
+    "dst_port": "53",
+    "af": 6,
+    "src_addr": "2606:5d00:1000:1:1:7eff:fee6:e0f9",
+    "proto": "UDP",
+    "result": {
+        "rt": 26.097,
+        "size": 128,
+        "abuf": "bRSEAAABAAEAAAABAAAGAAEAAAYAAQABUYAAQAFhDHJvb3Qtc2VydmVycwNuZXQABW5zdGxkDHZlcmlzaWduLWdycwNjb20AeHb2nQAABwgAAAOEAAk6gAABUYAAACkE0AAAAAAAGQADABVuczMudXMtbWlhLmsucmlwZS5uZXQ=",
+        "ID": 27924,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 1,
+        "answers": [
+            {
+                "TYPE": "SOA",
+                "NAME": ".",
+                "TTL": 86400,
+                "MNAME": "a.root-servers.net.",
+                "RNAME": "nstld.verisign-grs.com.",
+                "SERIAL": 2021062301
+            }
+        ]
+    },
+    "msm_id": 8319598,
+    "prb_id": 52590,
+    "timestamp": 1624494495,
+    "msm_name": "Tdig",
+    "from": "2606:5d00:1000:1:1:7eff:fee6:e0f9",
+    "type": "dns",
+    "group_id": 8319598
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 39,
+    "dst_addr": "2001:500:9f::42",
+    "dst_port": "53",
+    "af": 6,
+    "src_addr": "2606:5d00:1000:1:1:7eff:fee6:e0f9",
+    "proto": "UDP",
+    "result": {
+        "rt": 21.165,
+        "size": 53,
+        "abuf": "8T6AAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAACgl1cy1ydHYtYWE=",
+        "ID": 61758,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "us-rtv-aa"
+                ]
+            }
+        ]
+    },
+    "msm_id": 11308,
+    "prb_id": 52590,
+    "timestamp": 1624494496,
+    "msm_name": "Tdig",
+    "from": "2606:5d00:1000:1:1:7eff:fee6:e0f9",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 1,
+    "dst_addr": "199.7.91.13",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "192.168.100.11",
+    "proto": "UDP",
+    "result": {
+        "rt": 66.417,
+        "size": 493,
+        "abuf": "HeuEAAABAAEADQANAAAGAAEAAAYAAQABUYAAQAFhDHJvb3Qtc2VydmVycwNuZXQABW5zdGxkDHZlcmlzaWduLWdycwNjb20AeHb2nQAABwgAAAOEAAk6gAABUYAAAAIAAQAH6QAAAsAcAAACAAEAB+kAAAQBYsAeAAACAAEAB+kAAAQBY8AeAAACAAEAB+kAAAQBZMAeAAACAAEAB+kAAAQBZcAeAAACAAEAB+kAAAQBZsAeAAACAAEAB+kAAAQBZ8AeAAACAAEAB+kAAAQBaMAeAAACAAEAB+kAAAQBacAeAAACAAEAB+kAAAQBasAeAAACAAEAB+kAAAQBa8AeAAACAAEAB+kAAAQBbMAeAAACAAEAB+kAAAQBbcAewBwAAQABAAfpAAAExikABMB0AAEAAQAH6QAABMcJDsnAgwABAAEAB+kAAATAIQQMwJIAAQABAAfpAAAExwdbDcChAAEAAQAH6QAABMDL5grAsAABAAEAB+kAAATABQXxwL8AAQABAAfpAAAEwHAkBMDOAAEAAQAH6QAABMZhvjXA3QABAAEAB+kAAATAJJQRwOwAAQABAAfpAAAEwDqAHsD7AAEAAQAH6QAABMEADoHBCgABAAEAB+kAAATHB1MqwRkAAQABAAfpAAAEygwbIQ==",
+        "ID": 7659,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 13,
+        "ARCOUNT": 13,
+        "answers": [
+            {
+                "TYPE": "SOA",
+                "NAME": ".",
+                "TTL": 86400,
+                "MNAME": "a.root-servers.net.",
+                "RNAME": "nstld.verisign-grs.com.",
+                "SERIAL": 2021062301
+            }
+        ]
+    },
+    "msm_id": 10012,
+    "prb_id": 25512,
+    "timestamp": 1624494458,
+    "msm_name": "Tdig",
+    "from": "181.39.213.79",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 3,
+    "dst_addr": "192.112.36.4",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "192.168.100.11",
+    "proto": "UDP",
+    "result": {
+        "rt": 103.689,
+        "size": 493,
+        "abuf": "yPmEAAABAAEADQANAAAGAAEAAAYAAQABUYAAQAFhDHJvb3Qtc2VydmVycwNuZXQABW5zdGxkDHZlcmlzaWduLWdycwNjb20AeHb2nQAABwgAAAOEAAk6gAABUYAAAAIAAQAH6QAABAFpwB4AAAIAAQAH6QAABAFqwB4AAAIAAQAH6QAABAFlwB4AAAIAAQAH6QAABAFmwB4AAAIAAQAH6QAABAFnwB4AAAIAAQAH6QAAAsAcAAACAAEAB+kAAAQBa8AeAAACAAEAB+kAAAQBbMAeAAACAAEAB+kAAAQBZMAeAAACAAEAB+kAAAQBYsAeAAACAAEAB+kAAAQBY8AeAAACAAEAB+kAAAQBaMAeAAACAAEAB+kAAAQBbcAewBwAAQABADbugAAExikABMDsAAEAAQA27oAABMcJDsnA+wABAAEANu6AAATAIQQMwN0AAQABADbugAAExwdbDcCFAAEAAQA27oAABMDL5grAlAABAAEANu6AAATABQXxwKMAAQABADbugAAEwHAkBMEKAAEAAQA27oAABMZhvjXAZwABAAEANu6AAATAJJQRwHYAAQABADbugAAEwDqAHsC/AAEAAQA27oAABMEADoHAzgABAAEANu6AAATHB1MqwRkAAQABADbugAAEygwbIQ==",
+        "ID": 51449,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 13,
+        "ARCOUNT": 13,
+        "answers": [
+            {
+                "TYPE": "SOA",
+                "NAME": ".",
+                "TTL": 86400,
+                "MNAME": "a.root-servers.net.",
+                "RNAME": "nstld.verisign-grs.com.",
+                "SERIAL": 2021062301
+            }
+        ]
+    },
+    "msm_id": 10014,
+    "prb_id": 25512,
+    "timestamp": 1624494461,
+    "msm_name": "Tdig",
+    "from": "181.39.213.79",
+    "type": "dns"
+},
+{
+    "fw": 4790,
+    "lts": 110,
+    "resultset": [
+        {
+            "time": 1624494521,
+            "lts": 110,
+            "subid": 1,
+            "submax": 2,
+            "dst_addr": "80.58.61.254",
+            "af": 4,
+            "src_addr": "192.168.1.32",
+            "proto": "UDP",
+            "result": {
+                "rt": 47.132,
+                "size": 495,
+                "abuf": "VsKBgAABAAIABAABBnNlY3VyZQ9yaXBlLWhhY2thdGhvbjIJbmxuZXRsYWJzAm5sAAABAAHADAABAAEAACfYAAS5MY0RwAwALgABAAAn2ACgAAEIBAAAJ9hg9Tb+YNBM/qWZCW5sbmV0bGFicwJubAB5DqZh051aLRCtxradkf8xJ3LaZNMWRv480LNSs0Bms6U5hbQwbQUhtHN6SbX2s/nxl7ew+ZKHyE/5u6axFX4GfJxR5p+WOs6z3er4eWHcdeIeqKGzyeEKEoGNfC5wTaolIcO40yoqOCd+4DEAKdDLRG8HIM1lox7IKhOuZIyQGMAjAAIAAQAAAPAADwVhbnlucwNwY2gDbmV0AMAjAAIAAQAAAPAADwducy1leHQxBHNpZG7ALcAjAAIAAQAAAPAABQJuc8AjwCMALgABAAAA8ACgAAIIAgAAAPBg9Tb+YNBM/qWZCW5sbmV0bGFicwJubADP7xrn0Zg3TuJMcPm61yx9cp6DgqXZqLyUCFTatdJA8L/rYkA7A2n5UxdLUgG6RfjaG+6iOJ9P2vM3gP6IqJWixxgkfGh1MITnTyUNfUvOuoCn6lsguI0AEdAZW6D+pChOAqRz8YDYq/nI7RfCnuclOxIi9fDJbhVrwt8FeGD6TAAAKQW0AACAAAAA",
+                "ID": 22210,
+                "ANCOUNT": 2,
+                "QDCOUNT": 1,
+                "NSCOUNT": 4,
+                "ARCOUNT": 1
+            }
+        },
+        {
+            "time": 1624494522,
+            "lts": 111,
+            "subid": 2,
+            "submax": 2,
+            "dst_addr": "80.58.61.250",
+            "af": 4,
+            "src_addr": "192.168.1.32",
+            "proto": "UDP",
+            "result": {
+                "rt": 13.955,
+                "size": 252,
+                "abuf": "ZcOBoAABAAIAAAABBnNlY3VyZQ9yaXBlLWhhY2thdGhvbjIJbmxuZXRsYWJzAm5sAAABAAHADAABAAEAACbgAAS5MY0RwAwALgABAAAm4ACgAAEIBAAAJ9hg9Tb+YNBM/qWZCW5sbmV0bGFicwJubAB5DqZh051aLRCtxradkf8xJ3LaZNMWRv480LNSs0Bms6U5hbQwbQUhtHN6SbX2s/nxl7ew+ZKHyE/5u6axFX4GfJxR5p+WOs6z3er4eWHcdeIeqKGzyeEKEoGNfC5wTaolIcO40yoqOCd+4DEAKdDLRG8HIM1lox7IKhOuZIyQGAAAKQIAAACAAAAA",
+                "ID": 26051,
+                "ANCOUNT": 2,
+                "QDCOUNT": 1,
+                "NSCOUNT": 0,
+                "ARCOUNT": 1
+            }
+        }
+    ],
+    "msm_id": 8311760,
+    "prb_id": 448,
+    "timestamp": 1624494521,
+    "msm_name": "Tdig",
+    "from": "79.148.214.182",
+    "type": "dns",
+    "group_id": 8311760
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 59,
+    "dst_addr": "2001:500:1::53",
+    "dst_port": "53",
+    "af": 6,
+    "src_addr": "2a0b:1306:1::254",
+    "proto": "UDP",
+    "result": {
+        "rt": 11.572,
+        "size": 70,
+        "abuf": "e6WAAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAAGxowMDEubnp5Lmgucm9vdC1zZXJ2ZXJzLm9yZw==",
+        "ID": 31653,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "001.nzy.h.root-servers.org"
+                ]
+            }
+        ]
+    },
+    "msm_id": 11315,
+    "prb_id": 6542,
+    "timestamp": 1624494418,
+    "msm_name": "Tdig",
+    "from": "2a0b:1306:1::254",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 48,
+    "dst_addr": "192.203.230.10",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "192.168.3.33",
+    "proto": "UDP",
+    "result": {
+        "rt": 5.76,
+        "size": 57,
+        "abuf": "HSiEAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAADwADg1jMDEuQkNOLmVyb290",
+        "ID": 7464,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "c01.BCN.eroot"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10313,
+    "prb_id": 19566,
+    "timestamp": 1624494506,
+    "msm_name": "Tdig",
+    "from": "91.187.93.39",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 37,
+    "dst_addr": "199.7.91.13",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "192.168.1.231",
+    "proto": "UDP",
+    "result": {
+        "rt": 12.567,
+        "size": 70,
+        "abuf": "SfqAAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAAGxp0YWZpMi5kcm9vdC5tYXhnaWdhcG9wLm5ldA==",
+        "ID": 18938,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "tafi2.droot.maxgigapop.net"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10312,
+    "prb_id": 54833,
+    "timestamp": 1624494488,
+    "msm_name": "Tdig",
+    "from": "84.250.107.254",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 52,
+    "dst_addr": "192.58.128.30",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "192.168.1.231",
+    "proto": "UDP",
+    "result": {
+        "rt": 9.434,
+        "size": 57,
+        "abuf": "cViAAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAADg1yb290bnMtZWxoZWwy",
+        "ID": 29016,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "rootns-elhel2"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10316,
+    "prb_id": 54833,
+    "timestamp": 1624494503,
+    "msm_name": "Tdig",
+    "from": "84.250.107.254",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 18,
+    "resultset": [
+        {
+            "time": 1624494471,
+            "lts": 18,
+            "subid": 1,
+            "submax": 1,
+            "dst_addr": "192.168.8.1",
+            "dst_port": "53",
+            "af": 4,
+            "src_addr": "192.168.8.102",
+            "proto": "UDP",
+            "qbuf": "AisBAAABAAAAAAAABmdvb2dsZQJpdAAAAQAB",
+            "result": {
+                "rt": 31.437,
+                "size": 301,
+                "abuf": "AiuBgAABAAEABAAIBmdvb2dsZQJpdAAAAQABwAwAAQABAAAATwAEjvpKY8AMAAIAAQAAH/EAEANuczQGZ29vZ2xlA2NvbQDADAACAAEAAB/xAAYDbnMzwDvADAACAAEAAB/xAAYDbnMxwDvADAACAAEAAB/xAAYDbnMywDvAZQABAAEAAbMYAATY7yAKwHcAAQABAAMSFQAE2O8iCsBTAAEAAQAETo4ABNjvJArANwABAAEABGLcAATY7yYKwGUAHAABAAMjDQAQIAFIYEgCADIAAAAAAAAACsB3ABwAAQADNREAECABSGBIAgA0AAAAAAAAAArAUwAcAAEAAuPTABAgAUhgSAIANgAAAAAAAAAKwDcAHAABAARObgAQIAFIYEgCADgAAAAAAAAACg==",
+                "ID": 555,
+                "ANCOUNT": 1,
+                "QDCOUNT": 1,
+                "NSCOUNT": 4,
+                "ARCOUNT": 8
+            }
+        }
+    ],
+    "msm_id": 30002,
+    "prb_id": 54028,
+    "timestamp": 1624494471,
+    "msm_name": "Tdig",
+    "from": "80.62.117.221",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 56,
+    "dst_addr": "192.5.5.241",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "192.168.178.25",
+    "proto": "UDP",
+    "result": {
+        "rt": 3.685,
+        "size": 505,
+        "abuf": "DWmGAAABAAEADQAKAAAGAAEAAAYAAQABUYAAQAFhDHJvb3Qtc2VydmVycwNuZXQABW5zdGxkDHZlcmlzaWduLWdycwNjb20AeHb2nQAABwgAAAOEAAk6gAABUYAAAAIAAQAH6QAABAFtwB4AAAIAAQAH6QAABAFiwB4AAAIAAQAH6QAABAFjwB4AAAIAAQAH6QAABAFkwB4AAAIAAQAH6QAABAFlwB4AAAIAAQAH6QAABAFmwB4AAAIAAQAH6QAABAFnwB4AAAIAAQAH6QAABAFowB4AAAIAAQAH6QAABAFpwB4AAAIAAQAH6QAAAsAcAAACAAEAB+kAAAQBasAeAAACAAEAB+kAAAQBa8AeAAACAAEAB+kAAAQBbMAewGcAAQABAAfpAAAEygwbIcBnABwAAQAH6QAAECABDcMAAAAAAAAAAAAAADXAdgABAAEAB+kAAATHCQ7JwHYAHAABAAfpAAAQIAEFAAIAAAAAAAAAAAAAC8CFAAEAAQAH6QAABMAhBAzAhQAcAAEAB+kAABAgAQUAAAIAAAAAAAAAAAAMwJQAAQABAAfpAAAExwdbDcCUABwAAQAH6QAAECABBQAALQAAAAAAAAAAAA3AowABAAEAB+kAAATAy+YKwKMAHAABAAfpAAAQIAEFAACoAAAAAAAAAAAADg==",
+        "ID": 3433,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 13,
+        "ARCOUNT": 10,
+        "answers": [
+            {
+                "TYPE": "SOA",
+                "NAME": ".",
+                "TTL": 86400,
+                "MNAME": "a.root-servers.net.",
+                "RNAME": "nstld.verisign-grs.com.",
+                "SERIAL": 2021062301
+            }
+        ]
+    },
+    "msm_id": 10004,
+    "prb_id": 23617,
+    "timestamp": 1624494428,
+    "msm_name": "Tdig",
+    "from": "213.152.109.106",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 14,
+    "dst_addr": "199.9.14.201",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "192.168.117.119",
+    "proto": "UDP",
+    "result": {
+        "rt": 73.747,
+        "size": 50,
+        "abuf": "V2yAAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAABwZiMy1sYXg=",
+        "ID": 22380,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "b3-lax"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10310,
+    "prb_id": 26946,
+    "timestamp": 1624494474,
+    "msm_name": "Tdig",
+    "from": "71.209.97.26",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 30,
+    "dst_addr": "2001:500:12::d0d",
+    "dst_port": "53",
+    "af": 6,
+    "src_addr": "2a01:11:8a00:1::3",
+    "proto": "UDP",
+    "result": {
+        "rt": 98.04,
+        "size": 70,
+        "abuf": "qy2EAAABAAEAAQAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAADQxncm9vdC1ldXIyLTLADAACAAMAAAAAAALADA==",
+        "ID": 43821,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 1,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "groot-eur2-2"
+                ]
+            }
+        ]
+    },
+    "msm_id": 11314,
+    "prb_id": 1001285,
+    "timestamp": 1624494516,
+    "msm_name": "Tdig",
+    "from": "2a01:11:8a00:1::3",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 45,
+    "dst_addr": "193.0.14.129",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "95.94.178.239",
+    "proto": "UDP",
+    "result": {
+        "rt": 42.076,
+        "size": 65,
+        "abuf": "JwKAAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAAFhVuczEuY2gtenJoLmsucmlwZS5uZXQ=",
+        "ID": 9986,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "ns1.ch-zrh.k.ripe.net"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10301,
+    "prb_id": 1001285,
+    "timestamp": 1624494531,
+    "msm_name": "Tdig",
+    "from": "95.94.178.239",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 55,
+    "dst_addr": "192.36.148.17",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "95.94.178.239",
+    "proto": "UDP",
+    "result": {
+        "rt": 65.47,
+        "size": 64,
+        "abuf": "FLGEAAABAAEAAQAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAABwZzMS5zdGjADAACAAMAAAAAAALADA==",
+        "ID": 5297,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 1,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "s1.sth"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10305,
+    "prb_id": 1001285,
+    "timestamp": 1624494541,
+    "msm_name": "Tdig",
+    "from": "95.94.178.239",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 31,
+    "dst_addr": "192.33.4.12",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "10.0.0.130",
+    "proto": "UDP",
+    "result": {
+        "rt": 8.118,
+        "size": 82,
+        "abuf": "JaCEAAABAAEAAQAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAAGRhwYXIxYi5jLnJvb3Qtc2VydmVycy5vcmfADAACAAMAAAAAAALADA==",
+        "ID": 9632,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 1,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "par1b.c.root-servers.org"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10311,
+    "prb_id": 17032,
+    "timestamp": 1624494477,
+    "msm_name": "Tdig",
+    "from": "82.66.0.218",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 28,
+    "dst_addr": "198.41.0.4",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "31.220.5.85",
+    "proto": "UDP",
+    "result": {
+        "rt": 20.732,
+        "size": 53,
+        "abuf": "7NmEAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAACglubm4xLWFtczU=",
+        "ID": 60633,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "nnn1-ams5"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10309,
+    "prb_id": 1001941,
+    "timestamp": 1624494457,
+    "msm_name": "Tdig",
+    "from": "31.220.5.85",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 32,
+    "dst_addr": "199.7.91.13",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "31.220.5.85",
+    "proto": "UDP",
+    "result": {
+        "rt": 20.526,
+        "size": 70,
+        "abuf": "x4SAAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAAGxphbW5sNi5kcm9vdC5tYXhnaWdhcG9wLm5ldA==",
+        "ID": 51076,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "amnl6.droot.maxgigapop.net"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10312,
+    "prb_id": 1001941,
+    "timestamp": 1624494461,
+    "msm_name": "Tdig",
+    "from": "31.220.5.85",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 33,
+    "dst_addr": "192.36.148.17",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "195.22.112.92",
+    "proto": "UDP",
+    "result": {
+        "rt": 19.862,
+        "size": 60,
+        "abuf": "9oyEAAABAAEAAQAAAmlkBnNlcnZlcgAAEAADwAwAEAADAAAAAAAHBnMxLndpZcAMAAIAAwAAAAAAAsAM",
+        "ID": 63116,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 1,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "id.server",
+                "RDATA": [
+                    "s1.wie"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10405,
+    "prb_id": 18024,
+    "timestamp": 1624494486,
+    "msm_name": "Tdig",
+    "from": "195.22.112.92",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 39,
+    "dst_addr": "192.5.5.241",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "195.22.112.92",
+    "proto": "UDP",
+    "result": {
+        "rt": 7.573,
+        "size": 65,
+        "abuf": "GOWEAAABAAEAAAAAAmlkBnNlcnZlcgAAEAADwAwAEAADAAAAPAAaGVdBVy5jZi5mLnJvb3Qtc2VydmVycy5vcmc=",
+        "ID": 6373,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "id.server",
+                "RDATA": [
+                    "WAW.cf.f.root-servers.org"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10404,
+    "prb_id": 18024,
+    "timestamp": 1624494492,
+    "msm_name": "Tdig",
+    "from": "195.22.112.92",
+    "type": "dns"
+},
+{
+    "fw": 4790,
+    "lts": 10,
+    "dst_addr": "199.7.83.42",
+    "af": 4,
+    "src_addr": "10.0.77.10",
+    "proto": "UDP",
+    "result": {
+        "rt": 44.1,
+        "size": 53,
+        "abuf": "HSeAAAABAAEAAAAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAACgl1YS1vZHMtYWE=",
+        "ID": 7463,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 0,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "ua-ods-aa"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10308,
+    "prb_id": 4232,
+    "timestamp": 1624494384,
+    "msm_name": "Tdig",
+    "from": "212.3.141.135",
+    "type": "dns"
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 2,
+    "dst_addr": "193.0.14.129",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "192.168.1.2",
+    "proto": "UDP",
+    "error": {
+        "timeout": 5000
+    },
+    "msm_id": 8319597,
+    "prb_id": 52683,
+    "timestamp": 1624494435,
+    "msm_name": "Tdig",
+    "from": "146.212.83.165",
+    "type": "dns",
+    "group_id": 8319597
+},
+{
+    "fw": 5020,
+    "mver": "2.2.1",
+    "lts": 22,
+    "dst_addr": "192.36.148.17",
+    "dst_port": "53",
+    "af": 4,
+    "src_addr": "192.168.2.101",
+    "proto": "UDP",
+    "result": {
+        "rt": 43.863,
+        "size": 64,
+        "abuf": "hIyEAAABAAEAAQAACGhvc3RuYW1lBGJpbmQAABAAA8AMABAAAwAAAAAABwZzMS5tdHnADAACAAMAAAAAAALADA==",
+        "ID": 33932,
+        "ANCOUNT": 1,
+        "QDCOUNT": 1,
+        "NSCOUNT": 1,
+        "ARCOUNT": 0,
+        "answers": [
+            {
+                "TYPE": "TXT",
+                "NAME": "hostname.bind",
+                "RDATA": [
+                    "s1.mty"
+                ]
+            }
+        ]
+    },
+    "msm_id": 10305,
+    "prb_id": 55651,
+    "timestamp": 1624494374,
+    "msm_name": "Tdig",
+    "from": "208.83.65.142",
+    "type": "dns"
+}]

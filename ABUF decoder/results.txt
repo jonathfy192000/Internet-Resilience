@@ -1,0 +1,1089 @@
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
+id 59266
+opcode QUERY
+rcode NOERROR
+flags QR
+;QUESTION
+hostname.bind. CH TXT
+;ANSWER
+hostname.bind. 0 CH TXT "ns3.nl-ams.k.ripe.net"
+;AUTHORITY
+;ADDITIONAL
+--------------------------------------------
