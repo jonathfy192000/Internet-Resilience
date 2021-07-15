@@ -1,0 +1,23 @@
+1) 
+https://atlas.ripe.net/measurements/30001/?lm.start=1625822459&lm.stop=1625870459&lm.measurements=30001&lm.groups=CH,PT,HU,NL,IT&lm.groups-component=30001M11,53,60,63,141,250L30001M24,112,445,634,636,671L30001M25,282,352,723,743,762L30001M1,2,3,4,5,6L30001M14,44,58,70,128,144&lm.groups-type=multi-probes,multi-probes,multi-probes,multi-probes,multi-probes#general
+
+----SELECT WHAT DAYS YOU WANT THE QUERY RESULTS FROM
+
+2)
+login to netsail, then use wget from the url you got from the website in step 1
+
+3)
+rename the file that wget downloaded to test1.html (might change name later)
+
+4)
+use scp if you want the file on your own computer
+----probably going to just move the file from computer to remote machine, and run it there
+
+5)
+run the python script to get results in a .txt file
+
+6)
+use scp to move the results.txt result file to wherever you want (local or anywhere else)
+
+EX scp:------------------------------
+jonathfy@128.195.11.101:/home/jonathfy/test1.html Desktop/results
